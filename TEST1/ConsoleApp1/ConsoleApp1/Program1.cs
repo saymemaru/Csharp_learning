@@ -12,21 +12,10 @@ namespace ConsoleApp1 //引用不同命名空间内容时需要using xxx
     {
         static void Main(string[] args)
         {
-            //扩展方法
-            Console.WriteLine("helloworld".ToPascalCase());
-            Console.WriteLine(Color.Blue.GetColor());
+           
+            
 
-
-            //类属性实例化
-            人类 一猫人 = new 人类("一猫人",35); //构造函数
-            一猫人.你好();
-            Console.WriteLine($"{一猫人.姓名}{一猫人.年龄}岁了");
-            一猫人.显示生日();
-
-            //枚举（分别输入字符串、枚举、整数）
-            枚举.枚举日期("星期一");
-            枚举.枚举日期(枚举.日期.星期三);
-            枚举.枚举日期(5);
+           
 
             人类 小王 = new();
             小王.姓名 = "小王";
@@ -44,16 +33,9 @@ namespace ConsoleApp1 //引用不同命名空间内容时需要using xxx
             数组和foreach示例();
             范型集合();
             //CaseSwitch
-            条件判断类 条件判断实例 = new 条件判断类();
-            //条件判断实例.SwitchCase();
-            //条件判断实例.辨别性别(一猫人.性别);
-            //条件判断实例.三元条件运算符号();
-            //条件判断实例.FizzBuzz();
+         
 
-            //递归
-            递归.汉诺塔(3, 'A', 'B', 'C');
-            Console.WriteLine(递归.times);
-            Console.WriteLine(递归.累加(10));
+            
 
             for (int i = 0; i < 1; i++)  //for(变量；判断；计算）
             {

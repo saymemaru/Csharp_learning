@@ -20,7 +20,7 @@ namespace ConsoleApp1
         //限制条件
         //只允许 T 为特定的引用类型
         class Creator1<T> where T : class, new() { }  //new()约束，表示必须有无参构造函数
-        class Creator2<T> where T : 递归 { } //递归约束，T必须是递归类或其子类
+        class Creator2<T> where T : class { } //
         class Creator3<T> where T : IArmy { } //接口约束，T必须实现IArmy接口
 
         /*    
