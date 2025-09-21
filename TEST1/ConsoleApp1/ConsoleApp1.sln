@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托", "委托\委托.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "值类型引用类型", "值类型引用类型\值类型引用类型.csproj", "{AF5CFF22-8843-4EC5-9726-D3AFABF84E08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型", "泛型\泛型.csproj", "{ADE33725-0CDD-40C0-A32E-303C30C47D0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,14 @@ Global
 		{AF5CFF22-8843-4EC5-9726-D3AFABF84E08}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AF5CFF22-8843-4EC5-9726-D3AFABF84E08}.Release|x64.ActiveCfg = Release|Any CPU
 		{AF5CFF22-8843-4EC5-9726-D3AFABF84E08}.Release|x64.Build.0 = Release|Any CPU
+		{ADE33725-0CDD-40C0-A32E-303C30C47D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE33725-0CDD-40C0-A32E-303C30C47D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE33725-0CDD-40C0-A32E-303C30C47D0D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ADE33725-0CDD-40C0-A32E-303C30C47D0D}.Debug|x64.Build.0 = Debug|Any CPU
+		{ADE33725-0CDD-40C0-A32E-303C30C47D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE33725-0CDD-40C0-A32E-303C30C47D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE33725-0CDD-40C0-A32E-303C30C47D0D}.Release|x64.ActiveCfg = Release|Any CPU
+		{ADE33725-0CDD-40C0-A32E-303C30C47D0D}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
