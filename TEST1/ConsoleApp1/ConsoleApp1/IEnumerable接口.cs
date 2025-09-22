@@ -119,7 +119,7 @@ namespace ConsoleApp1
             };
             People people = new People(peopleArray);
 
-            //便可以使用foreach语法来遍历自定义集合people
+            //便可以使用foreach语法来遍历自定义集合people（建立迭代器的目的！简单的遍历）
             foreach (Person p in people)
                 Console.WriteLine(p.firstName + " " + p.lastName);
 
