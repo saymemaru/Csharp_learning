@@ -33,6 +33,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "值类型引用类型", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型", "泛型\泛型.csproj", "{ADE33725-0CDD-40C0-A32E-303C30C47D0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 策略模式", "设计模式 - 策略模式\设计模式 - 策略模式.csproj", "{3C56F4BE-53B2-4E16-B5EC-B87FCB438DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 工厂模式", "设计模式 - 工厂模式\设计模式 - 工厂模式.csproj", "{1F121922-E3DF-4253-B270-D1250BC9854A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 装饰模式", "设计模式 - 装饰模式\设计模式 - 装饰模式.csproj", "{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,6 +167,30 @@ Global
 		{ADE33725-0CDD-40C0-A32E-303C30C47D0D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ADE33725-0CDD-40C0-A32E-303C30C47D0D}.Release|x64.ActiveCfg = Release|Any CPU
 		{ADE33725-0CDD-40C0-A32E-303C30C47D0D}.Release|x64.Build.0 = Release|Any CPU
+		{3C56F4BE-53B2-4E16-B5EC-B87FCB438DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C56F4BE-53B2-4E16-B5EC-B87FCB438DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C56F4BE-53B2-4E16-B5EC-B87FCB438DF7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3C56F4BE-53B2-4E16-B5EC-B87FCB438DF7}.Debug|x64.Build.0 = Debug|Any CPU
+		{3C56F4BE-53B2-4E16-B5EC-B87FCB438DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C56F4BE-53B2-4E16-B5EC-B87FCB438DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C56F4BE-53B2-4E16-B5EC-B87FCB438DF7}.Release|x64.ActiveCfg = Release|Any CPU
+		{3C56F4BE-53B2-4E16-B5EC-B87FCB438DF7}.Release|x64.Build.0 = Release|Any CPU
+		{1F121922-E3DF-4253-B270-D1250BC9854A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F121922-E3DF-4253-B270-D1250BC9854A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F121922-E3DF-4253-B270-D1250BC9854A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1F121922-E3DF-4253-B270-D1250BC9854A}.Debug|x64.Build.0 = Debug|Any CPU
+		{1F121922-E3DF-4253-B270-D1250BC9854A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F121922-E3DF-4253-B270-D1250BC9854A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F121922-E3DF-4253-B270-D1250BC9854A}.Release|x64.ActiveCfg = Release|Any CPU
+		{1F121922-E3DF-4253-B270-D1250BC9854A}.Release|x64.Build.0 = Release|Any CPU
+		{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}.Debug|x64.Build.0 = Debug|Any CPU
+		{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}.Release|x64.ActiveCfg = Release|Any CPU
+		{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
