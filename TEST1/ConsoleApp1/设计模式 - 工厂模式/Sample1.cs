@@ -4,8 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 设计模式__工厂模式
+namespace 设计模式_工厂模式
 {
+    abstract class Product
+    {
+        public abstract void Use();
+    }
+
+    class ConcreteProductA : Product
+    {
+        public override void Use()
+        {
+            Console.WriteLine("Using Product A");
+        }
+    }
+
+    class ConcreteProductB : Product
+    {
+        public override void Use()
+        {
+            Console.WriteLine("Using Product B");
+        }
+    }
+
+    //简单工厂
+    //输入标识符，返回对应的产品实例
     internal class SimpleFactory
     {
         public static Product CreateProduct(string type)
@@ -26,24 +49,27 @@ namespace 设计模式__工厂模式
         }
     }
 
-    abstract class Product
+
+    //方法工厂
+
+    interface IFactory
     {
-        public abstract void Use();
+        Product CreateProduct();
     }
 
-    class ConcreteProductA : Product
+    class ProductAFactory : IFactory
     {
-        public override void Use()
+        public Product CreateProduct()
         {
-            Console.WriteLine("Using Product A");
+            return new ConcreteProductA();
         }
     }
 
-    class ConcreteProductB : Product
+    class ProductBFactory : IFactory
     {
-        public override void Use()
+        public Product CreateProduct()
         {
-            Console.WriteLine("Using Product B");
+            return new ConcreteProductB();
         }
     }
 }

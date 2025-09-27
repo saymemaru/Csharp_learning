@@ -1,15 +1,10 @@
 ﻿using 设计模式__策略模式;
-
 //输入一个字符串（标识符），获取对应的策略对象【简单工厂】
 //执行对应的策略（不由策略对象执行，而由context代为执行）
 
-Context context;
-while(true)
-{
-    Console.WriteLine("【策略模式】输入想要执行的命令：");
-    context = new Context(Console.ReadLine());
-    context.ExecuteStrategy();
-}
+string? strategyString = Console.ReadLine();
+Context context = new Context(strategyString);
+context.ExecuteStrategy();
 
 //例子：
 //  cmd输入指令，执行对应的命令

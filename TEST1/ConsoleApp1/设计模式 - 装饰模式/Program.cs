@@ -10,7 +10,7 @@ ConcreteDecoratorB decoratorB = new ConcreteDecoratorB();
 
 //装饰过程就是在上一个组件的基础上添加新的功能
 //添加的顺序可以任意组合
-//但是要考虑到装饰之间的逻辑关系
+//但是要考虑到装饰添加的方法之间的逻辑关系
 decoratorA.Decorate(cc);
 decoratorB.Decorate(decoratorA);
 decoratorB.Decorate(decoratorB);
