@@ -51,6 +51,7 @@ namespace 设计模式_工厂模式
 
 
     //方法工厂
+    // 定义一个创建对象的接口，让子类决定实例化哪一个类
 
     interface IFactory
     {

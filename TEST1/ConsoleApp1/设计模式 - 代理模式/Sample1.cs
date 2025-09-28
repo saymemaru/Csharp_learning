@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace 设计模式_代理模式
 {
-    //两个类(主类和代理类)继承同一个的接口
-    //代理类有主类的引用，通过实现接口方法调用主类的方法
-
-    //实现，调用代理类的方法，实际上是调用主类的方法的效果
+    //方法接口
     interface IBehavior
     {
         void StealMoney();
@@ -17,7 +14,8 @@ namespace 设计模式_代理模式
         void SpendMoney();
     }
 
-    class Master: IBehavior
+    //具体方法类
+    class Master : IBehavior
     {
         public Target target { get; private set; }
 
@@ -41,8 +39,9 @@ namespace 设计模式_代理模式
             target.money = target.money - moneyChangeAbility * 2;
         }
     }
-    
-    class Proxy: IBehavior
+
+    //代理类，带有具体方法类的引用
+    class Proxy : IBehavior
     {
         public Master master { get; set; }
         public Proxy(Master master)//可用工厂模式创建Master对象
