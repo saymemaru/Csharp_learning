@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 外观模式
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 建造者模式", "设计模式 - 建造者模式\设计模式 - 建造者模式.csproj", "{863BA366-6209-4339-8D37-009BD7FCED5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 观察者模式", "设计模式 - 观察者模式\设计模式 - 观察者模式.csproj", "{EC4706EB-69CF-4EA2-A4B2-8EFD0B8A494F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -271,6 +273,14 @@ Global
 		{863BA366-6209-4339-8D37-009BD7FCED5E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{863BA366-6209-4339-8D37-009BD7FCED5E}.Release|x64.ActiveCfg = Release|Any CPU
 		{863BA366-6209-4339-8D37-009BD7FCED5E}.Release|x64.Build.0 = Release|Any CPU
+		{EC4706EB-69CF-4EA2-A4B2-8EFD0B8A494F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4706EB-69CF-4EA2-A4B2-8EFD0B8A494F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4706EB-69CF-4EA2-A4B2-8EFD0B8A494F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EC4706EB-69CF-4EA2-A4B2-8EFD0B8A494F}.Debug|x64.Build.0 = Debug|Any CPU
+		{EC4706EB-69CF-4EA2-A4B2-8EFD0B8A494F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4706EB-69CF-4EA2-A4B2-8EFD0B8A494F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4706EB-69CF-4EA2-A4B2-8EFD0B8A494F}.Release|x64.ActiveCfg = Release|Any CPU
+		{EC4706EB-69CF-4EA2-A4B2-8EFD0B8A494F}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
