@@ -1,7 +1,12 @@
 ﻿using 设计模式__策略模式;
-//输入一个字符串（标识符），获取对应的策略对象【简单工厂】
-//执行对应的策略（不由策略对象执行，而由context代为执行）
+//目标：定义一系列算法，将每一个算法封装起来，并使它们互不干扰。
+//结构：一个策略接口，多个具体策略类，一个上下文类
 
+//策略接口定义方法
+//具体策略类实现策略接口的方法
+//上下文类持有策略接口的引用，通过调用接口方法，执行具体策略类的方法
+
+//发号施令
 string? strategyString = Console.ReadLine();
 Context context = new Context(strategyString);
 context.ExecuteStrategy();

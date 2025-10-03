@@ -6,12 +6,22 @@ using System.Threading.Tasks;
 
 namespace 设计模式___观察者模式
 {
+    //接口版
+    interface Subject
+    {
+        void Attach(Player observer);
+        void Detach(Player observer);
+        void Notify();
+        public string SubjectState { get; set; }
+    }
+
+    //委托版
     class Player : IDisposable
     {
         public static event EventHandler <EventArgs> OnSummoned;
         public static event EventHandler<EventArgs> OnDestroyed;
         public static event EventHandler <int> OnDamaged;
-        private bool disposed = false;
+        
         public int Health { get; private set; } = 100;
         public string Name { get; private set; } = "null";
 
@@ -39,12 +49,14 @@ namespace 设计模式___观察者模式
 
         }
 
+
+
+        private bool disposed = false;
         public void Dispose()
         {
             Dispose(true);
             GC.SuppressFinalize(this);
         }
-
         protected virtual void Dispose(bool disposing)
         {
             if (!disposed)

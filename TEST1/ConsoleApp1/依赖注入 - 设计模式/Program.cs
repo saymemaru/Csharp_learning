@@ -16,7 +16,7 @@
 //如果能将这个注册过程交给外部容器来完成就更好了。
 
 using 设计模式_依赖注入;
-
+//传入引用而非创建实例
 Person personA = new Person(new SunGlass());
 Person personB = new Person(new ColorGlass());
 personA.Watch();

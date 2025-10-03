@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace 设计模式___外观模式
 {
-    //外观类,为子系统接口提供一个统一的高层接口
+    //外观
+    //目标：为子系统接口提供一个统一的高层接口
+    //结构：外观类和若干子系统
+    //子系统提供基本方法
+    //外观类引用所有子系统，并提供组合方法
+
+    //排列组合
     class Facade
     {
         SubSystemA subA;
@@ -19,7 +25,7 @@ namespace 设计模式___外观模式
             subC = new SubSystemC();
         }
 
-        //排列组合方法组
+        //组合方法
         public void MethodA()
         {
             Console.WriteLine("方法组A:");

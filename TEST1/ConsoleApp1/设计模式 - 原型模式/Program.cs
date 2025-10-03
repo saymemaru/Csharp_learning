@@ -5,6 +5,7 @@
 //根据一个对象，创建出和原对象类似的新对象
 //优点:不用重新初始化一个对象，节省资源
 
+//复制粘贴
 Console.WriteLine("------浅拷贝------");
 //1.浅拷贝
 ConcretePrototypeA pA1 = new ConcretePrototypeA("I am the original");

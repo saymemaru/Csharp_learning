@@ -1,9 +1,11 @@
 ﻿using 设计模式__装饰模式;
-//在不修改原有类文件和使用继承的情况下，添加新的功能
-
+//目标：在不修改原有类文件和使用继承的情况下，添加新的功能
+//结构：组件、具体组件、装饰器、具体装饰器
 //ConcreteComponent 和 Decorator 继承同一个 Component
 //通过将上一层 Component 的引用传递给另一个 Decorator
 //以在不改变原 Component 结构的情况下，给它添加一些额外功能
+
+//套娃
 ConcreteComponent cc = new ConcreteComponent();
 ConcreteDecoratorA decoratorA = new ConcreteDecoratorA();
 ConcreteDecoratorB decoratorB = new ConcreteDecoratorB();
