@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Silk.NET.OpenGL;
 using System.Drawing;
+using TEST1.Model;
 
 namespace TEST1
 {
@@ -19,12 +20,13 @@ namespace TEST1
         {
             _gl.Clear(ClearBufferMask.ColorBufferBit);
         }
-        public unsafe void Render(RawModel model)
+        public unsafe void Render(TexturedModel texturedModel)
         {
-            _gl.BindVertexArray(model.vaoID);
+            RawModel rawModel = texturedModel.RawModel;
+            _gl.BindVertexArray(rawModel.handle);
             _gl.EnableVertexAttribArray(0);
 
-            _gl.DrawElements(PrimitiveType.Triangles, model.vertexCount, DrawElementsType.UnsignedInt, (void*)0);
+            _gl.DrawElements(PrimitiveType.Triangles, rawModel.vertexCount, DrawElementsType.UnsignedInt, (void*)0);
             
             //渲染完成
             _gl.DisableVertexAttribArray(0);

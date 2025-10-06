@@ -1,16 +1,15 @@
 ﻿using Silk.NET.OpenGL;
 using System;
+using TEST1.Model;
 
 namespace TEST1
 {
-    public class Loader
+    public class Loader : IDisposable
     {
         private readonly GL _gl;
         private List<uint> vaos = new List<uint>();
         private List<uint> vbos = new List<uint>();
-        private static BufferObject<float> Vbo;
-        private static BufferObject<uint> Ebo;
-        private static VertexArrayObject<float, uint> Vao;
+        private List<uint> textures = new List<uint>();
 
         public Loader(GL gl)
         {
@@ -20,18 +19,27 @@ namespace TEST1
         public RawModel LoadToVAO(float[] vertices, uint[] indices)
         {
 
-            Ebo = new BufferObject<uint>(_gl, indices, BufferTargetARB.ElementArrayBuffer);
-            Vbo = new BufferObject<float>(_gl, vertices, BufferTargetARB.ArrayBuffer);
-            Vao = new VertexArrayObject<float, uint>(_gl, Vbo, Ebo);
+            BufferObject<uint>  Ebo = new BufferObject<uint>(_gl, indices, BufferTargetARB.ElementArrayBuffer);
+            BufferObject<float> Vbo = new BufferObject<float>(_gl, vertices, BufferTargetARB.ArrayBuffer);
+            SetVertexAttribPointer(0,3);
+            VertexArrayObject<float, uint> Vao = new VertexArrayObject<float, uint>(_gl, Vbo, Ebo);
             vaos.Add(Vao.handle);
-            vbos.Add(Vbo.handle);
-
-            StoreDataInAttributeList(0);
+            vbos.Add(Ebo.handle);
+            Unbind();
+            Ebo.Dispose();
+            Vbo.Dispose();
 
             return new RawModel(Vao.handle, (uint)indices.Length);
         }
+         
+        public Texture LoadTexture(string filePath)
+        {
+            Texture texture = new Texture(_gl, filePath);
+            textures.Add(texture.handle);
+            return texture;
+        }
 
-        public void CleanUp()
+        public void Dispose()
         {
             foreach (uint vao in vaos)
             {
@@ -41,16 +49,21 @@ namespace TEST1
             {
                 _gl.DeleteBuffer(vbo);
             }
+            foreach (uint texture in textures)
+            {
+                _gl.DeleteTexture(texture);
+            }
             vaos.Clear();
             vbos.Clear();
+            textures.Clear();
         }
 
         
-        private unsafe void StoreDataInAttributeList(uint attributeNumber)
+        private unsafe void SetVertexAttribPointer(uint attributeNumber, int coordinateSize)
         {
-
-            _gl.VertexAttribPointer(attributeNumber, 3, VertexAttribPointerType.Float, false, 3 * sizeof(float), (void*)0);
-
+            _gl.VertexAttribPointer(attributeNumber, coordinateSize, VertexAttribPointerType.Float,
+                false, (uint)coordinateSize * sizeof(float), (void*)0);
+            _gl.BindBuffer(BufferTargetARB.ArrayBuffer, 0);
         }
 
         private void Unbind()

@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\staticshadertexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:staticshadertexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\staticshadercolorful.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:staticshadercolorful.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\staticshaderorange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:staticshaderorange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\shader\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:shader\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\shader\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:shader\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\shader\\shader1.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:shader\\shader1.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\model\\texturedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:model\\texturedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\shader\\shader2.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:shader\\shader2.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\tool\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:tool\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\vertexarrayobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:vertexarrayobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\bufferobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:bufferobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\model\\rawmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:model\\rawmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\shader\\shader2.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:shader\\shader2.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|e:\\work\\c#\\silk.net\\opengl\\test2\\test1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A5282CA5-51A1-4C84-BBFE-7F6084AEFB57}|TEST1.csproj|solutionrelative:test1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Entity.cs",
+              "RelativeDocumentMoniker": "Entity.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Entity.cs",
+              "RelativeToolTip": "Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:57:29.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "shader1.frag",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader\\shader1.frag",
+              "RelativeDocumentMoniker": "Shader\\shader1.frag",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader\\shader1.frag",
+              "RelativeToolTip": "Shader\\shader1.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-06T11:54:49.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Tool\\MyMath.cs",
+              "RelativeDocumentMoniker": "Tool\\MyMath.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Tool\\MyMath.cs",
+              "RelativeToolTip": "Tool\\MyMath.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:24:47.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticShaderTexture.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\StaticShaderTexture.cs",
+              "RelativeDocumentMoniker": "StaticShaderTexture.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\StaticShaderTexture.cs",
+              "RelativeToolTip": "StaticShaderTexture.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxMAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:12:18.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StaticShaderOrange.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\StaticShaderOrange.cs",
+              "RelativeDocumentMoniker": "StaticShaderOrange.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\StaticShaderOrange.cs",
+              "RelativeToolTip": "StaticShaderOrange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T03:01:18.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TEST1",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\TEST1.csproj",
+              "RelativeDocumentMoniker": "TEST1.csproj",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\TEST1.csproj",
+              "RelativeToolTip": "TEST1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T02:51:24.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TEST1.csproj",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\TEST1.csproj",
+              "RelativeDocumentMoniker": "TEST1.csproj",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\TEST1.csproj",
+              "RelativeToolTip": "TEST1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T02:51:22.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TexturedModel.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Model\\TexturedModel.cs",
+              "RelativeDocumentMoniker": "Model\\TexturedModel.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Model\\TexturedModel.cs",
+              "RelativeToolTip": "Model\\TexturedModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:48:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Texture.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Texture.cs",
+              "RelativeDocumentMoniker": "Texture.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Texture.cs",
+              "RelativeToolTip": "Texture.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:37:41.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "shader2.frag",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader\\shader2.frag",
+              "RelativeDocumentMoniker": "Shader\\shader2.frag",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader\\shader2.frag",
+              "RelativeToolTip": "Shader\\shader2.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-05T15:43:28.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "shader2.vert",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader\\shader2.vert",
+              "RelativeDocumentMoniker": "Shader\\shader2.vert",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader\\shader2.vert",
+              "RelativeToolTip": "Shader\\shader2.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-05T15:43:11.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaticShaderColorful.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\StaticShaderColorful.cs",
+              "RelativeDocumentMoniker": "StaticShaderColorful.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\StaticShaderColorful.cs",
+              "RelativeToolTip": "StaticShaderColorful.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA7wA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:30:04.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shader.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader.cs",
+              "RelativeDocumentMoniker": "Shader.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader.cs",
+              "RelativeToolTip": "Shader.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:44:55.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VertexArrayObject.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\VertexArrayObject.cs",
+              "RelativeDocumentMoniker": "VertexArrayObject.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\VertexArrayObject.cs",
+              "RelativeToolTip": "VertexArrayObject.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:12:03.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BufferObject.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\BufferObject.cs",
+              "RelativeDocumentMoniker": "BufferObject.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\BufferObject.cs",
+              "RelativeToolTip": "BufferObject.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:05:56.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "shader.frag",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader\\shader.frag",
+              "RelativeDocumentMoniker": "Shader\\shader.frag",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader\\shader.frag",
+              "RelativeToolTip": "Shader\\shader.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-05T12:19:47.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Renderer.cs",
+              "RelativeDocumentMoniker": "Renderer.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Renderer.cs",
+              "RelativeToolTip": "Renderer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvx0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T10:50:25.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Loader.cs",
+              "RelativeDocumentMoniker": "Loader.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Loader.cs",
+              "RelativeToolTip": "Loader.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwv1EAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T09:35:54.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "shader.vert",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader\\shader.vert",
+              "RelativeDocumentMoniker": "Shader\\shader.vert",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Shader\\shader.vert",
+              "RelativeToolTip": "Shader\\shader.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-05T12:23:05.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RawModel.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Model\\RawModel.cs",
+              "RelativeDocumentMoniker": "Model\\RawModel.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Model\\RawModel.cs",
+              "RelativeToolTip": "Model\\RawModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T09:33:57.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwHwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T09:14:56.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

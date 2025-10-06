@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TEST1
+namespace TEST1.Model
 {
     public class RawModel
     {
-        public uint vaoID { get;private set; }
+        public uint handle { get;private set; }
         public uint vertexCount { get; private set; }
         public RawModel(uint vaoID, uint vertexCount)
         {
-            this.vaoID = vaoID;
+            this.handle = vaoID;
             this.vertexCount = vertexCount;
         }
     }
