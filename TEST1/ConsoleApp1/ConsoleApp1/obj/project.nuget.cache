@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ybsP+/3D/Vo=",
+  "dgSpecHash": "E6bpqTX8VKQ=",
   "success": true,
   "projectFilePath": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\OMEN\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+    "E:\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "E:\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

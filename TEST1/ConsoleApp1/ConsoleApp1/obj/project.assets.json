@@ -135,7 +135,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\OMEN\\.nuget\\packages\\": {}
+    "E:\\.nuget\\packages": {},
+    "F:\\app\\visual studio\\tools\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -143,11 +144,15 @@
       "projectUniqueName": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
       "projectPath": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
+      "packagesPath": "E:\\.nuget\\packages",
       "outputPath": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "F:\\app\\visual studio\\tools\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -155,6 +160,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "E:\\.nuget\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

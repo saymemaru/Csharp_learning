@@ -10,11 +10,15 @@
         "projectUniqueName": "E:\\work\\C#\\TEST1\\ConsoleApp1\\对象\\对象与类.csproj",
         "projectName": "对象与类",
         "projectPath": "E:\\work\\C#\\TEST1\\ConsoleApp1\\对象\\对象与类.csproj",
-        "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
+        "packagesPath": "E:\\.nuget\\packages",
         "outputPath": "E:\\work\\C#\\TEST1\\ConsoleApp1\\对象\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\app\\visual studio\\tools\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "E:\\.nuget\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
