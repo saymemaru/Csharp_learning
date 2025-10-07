@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\LeeCode.csproj",
+      "projectName": "LeeCode",
+      "projectPath": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\LeeCode.csproj",
       "packagesPath": "E:\\.nuget\\packages",
       "outputPath": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",

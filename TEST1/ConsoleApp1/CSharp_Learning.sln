@@ -39,7 +39,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 工厂模式
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 装饰模式", "设计模式 - 装饰模式\设计模式 - 装饰模式.csproj", "{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{8EAC478C-34E3-4938-A4AF-B91837CDE56C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeeCode", "ConsoleApp2\LeeCode.csproj", "{8EAC478C-34E3-4938-A4AF-B91837CDE56C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "匿名类型对象", "匿名类型对象\匿名类型对象.csproj", "{8065EC79-0ADA-4C7E-BB86-C826DE050351}"
 EndProject

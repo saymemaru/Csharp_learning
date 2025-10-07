@@ -67,7 +67,8 @@ namespace 设计模式_状态模式
     }
 
 
-    //
+    //上下文
+    //包含State引用, 
     class Context
     {
         public int Hour { get; set; }
