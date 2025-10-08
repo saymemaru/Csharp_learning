@@ -133,7 +133,6 @@ namespace LeeCode
             }
             return i == ransomNote.Length;
         }
-
         public static bool IsSubstring(string ransomNote, string magazine)
         {
             return magazine.Contains(ransomNote);

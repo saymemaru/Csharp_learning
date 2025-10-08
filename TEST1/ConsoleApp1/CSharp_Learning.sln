@@ -39,7 +39,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 工厂模式
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 装饰模式", "设计模式 - 装饰模式\设计模式 - 装饰模式.csproj", "{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeeCode", "ConsoleApp2\LeeCode.csproj", "{8EAC478C-34E3-4938-A4AF-B91837CDE56C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据结构 - LeeCode", "ConsoleApp2\数据结构 - LeeCode.csproj", "{8EAC478C-34E3-4938-A4AF-B91837CDE56C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "匿名类型对象", "匿名类型对象\匿名类型对象.csproj", "{8065EC79-0ADA-4C7E-BB86-C826DE050351}"
 EndProject
@@ -60,6 +60,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "in_out_ref", "in_out_ref\in_out_ref.csproj", "{49BAFAC6-9A73-4B89-A700-10B44D539C9A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 状态模式", "设计模式 - 状态模式\设计模式 - 状态模式.csproj", "{32C6E6BC-1A0A-4F22-8727-17117797B1B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 适配器模式", "设计模式 - 适配器模式\设计模式 - 适配器模式.csproj", "{CC58D578-6499-448B-9859-0D69B2057704}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -301,6 +303,14 @@ Global
 		{32C6E6BC-1A0A-4F22-8727-17117797B1B4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{32C6E6BC-1A0A-4F22-8727-17117797B1B4}.Release|x64.ActiveCfg = Release|Any CPU
 		{32C6E6BC-1A0A-4F22-8727-17117797B1B4}.Release|x64.Build.0 = Release|Any CPU
+		{CC58D578-6499-448B-9859-0D69B2057704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC58D578-6499-448B-9859-0D69B2057704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC58D578-6499-448B-9859-0D69B2057704}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CC58D578-6499-448B-9859-0D69B2057704}.Debug|x64.Build.0 = Debug|Any CPU
+		{CC58D578-6499-448B-9859-0D69B2057704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC58D578-6499-448B-9859-0D69B2057704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC58D578-6499-448B-9859-0D69B2057704}.Release|x64.ActiveCfg = Release|Any CPU
+		{CC58D578-6499-448B-9859-0D69B2057704}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
