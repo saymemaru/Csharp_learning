@@ -3,20 +3,80 @@
   "WorkspaceRootPath": "E:\\work\\C#\\TEST1\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\LeeCode.csproj|e:\\work\\c#\\test1\\consoleapp1\\consoleapp2\\\u5165\u95E8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\LeeCode.csproj|solutionrelative:consoleapp2\\\u5165\u95E8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03C2F294-C77B-4C63-9837-01B13674BB0A}|\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C2F294-C77B-4C63-9837-01B13674BB0A}|\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\ConsoleApp2.csproj|e:\\work\\c#\\test1\\consoleapp1\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03C2F294-C77B-4C63-9837-01B13674BB0A}|\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C2F294-C77B-4C63-9837-01B13674BB0A}|\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\LeeCode.csproj|e:\\work\\c#\\test1\\consoleapp1\\consoleapp2\\leecode.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\LeeCode.csproj|solutionrelative:consoleapp2\\leecode.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{03C2F294-C77B-4C63-9837-01B13674BB0A}|\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03C2F294-C77B-4C63-9837-01B13674BB0A}|\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\LeeCode.csproj|e:\\work\\c#\\test1\\consoleapp1\\consoleapp2\\leecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\LeeCode.csproj|solutionrelative:consoleapp2\\leecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}|\u8BBE\u8BA1\u6A21\u5F0F - \u88C5\u9970\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u88C5\u9970\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u88C5\u9970\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD31D691-CE1B-4F60-8025-E9D8C1ADFF93}|\u8BBE\u8BA1\u6A21\u5F0F - \u88C5\u9970\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u88C5\u9970\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u88C5\u9970\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0793B32-9493-4CAF-A650-9BE5394F6569}|\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0793B32-9493-4CAF-A650-9BE5394F6569}|\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0793B32-9493-4CAF-A650-9BE5394F6569}|\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0793B32-9493-4CAF-A650-9BE5394F6569}|\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED407EE1-2489-4C90-AFEB-231E11F59ABC}|\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED407EE1-2489-4C90-AFEB-231E11F59ABC}|\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED407EE1-2489-4C90-AFEB-231E11F59ABC}|\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED407EE1-2489-4C90-AFEB-231E11F59ABC}|\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF82C0DE-B24D-453B-BAC0-FE501E0C115C}|\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82C0DE-B24D-453B-BAC0-FE501E0C115C}|\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863BA366-6209-4339-8D37-009BD7FCED5E}|\u8BBE\u8BA1\u6A21\u5F0F - \u5EFA\u9020\u8005\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u5EFA\u9020\u8005\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5EFA\u9020\u8005\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863BA366-6209-4339-8D37-009BD7FCED5E}|\u8BBE\u8BA1\u6A21\u5F0F - \u5EFA\u9020\u8005\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u5EFA\u9020\u8005\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u5EFA\u9020\u8005\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF82C0DE-B24D-453B-BAC0-FE501E0C115C}|\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF82C0DE-B24D-453B-BAC0-FE501E0C115C}|\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC58D578-6499-448B-9859-0D69B2057704}|\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC58D578-6499-448B-9859-0D69B2057704}|\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC58D578-6499-448B-9859-0D69B2057704}|\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC58D578-6499-448B-9859-0D69B2057704}|\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840707A0-60FE-46EF-88F2-F9B1C932759E}|\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840707A0-60FE-46EF-88F2-F9B1C932759E}|\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840707A0-60FE-46EF-88F2-F9B1C932759E}|\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840707A0-60FE-46EF-88F2-F9B1C932759E}|\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\sample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC58D578-6499-448B-9859-0D69B2057704}|\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC58D578-6499-448B-9859-0D69B2057704}|\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj|solutionrelative:\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj|e:\\work\\c#\\test1\\consoleapp1\\consoleapp2\\\u6570\u636E\u7ED3\u6784 - leecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj|solutionrelative:consoleapp2\\\u6570\u636E\u7ED3\u6784 - leecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8814C3AC-880C-4923-9713-25AE757AC073}|LINQ\\LINQ.csproj|e:\\work\\c#\\test1\\consoleapp1\\linq\\linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8814C3AC-880C-4923-9713-25AE757AC073}|LINQ\\LINQ.csproj|solutionrelative:linq\\linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj|e:\\work\\c#\\test1\\consoleapp1\\consoleapp2\\\u6570\u636E\u7ED3\u6784 - leecode.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj|solutionrelative:consoleapp2\\\u6570\u636E\u7ED3\u6784 - leecode.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76F6D04F-4204-43E8-A12F-3DEAD64F687F}|\u53CD\u5C04\\\u53CD\u5C04.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u53CD\u5C04\\\u53CD\u5C04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -25,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5F439ED1-36C5-4CDA-BBA3-B81B4692D1AD}|\u5BF9\u8C61\\\u5BF9\u8C61\u4E0E\u7C7B.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u5BF9\u8C61\\\u5BF9\u8C61\u4E0E\u7C7B.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5F439ED1-36C5-4CDA-BBA3-B81B4692D1AD}|\u5BF9\u8C61\\\u5BF9\u8C61\u4E0E\u7C7B.csproj|solutionrelative:\u5BF9\u8C61\\\u5BF9\u8C61\u4E0E\u7C7B.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8814C3AC-880C-4923-9713-25AE757AC073}|LINQ\\LINQ.csproj|e:\\work\\c#\\test1\\consoleapp1\\linq\\linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8814C3AC-880C-4923-9713-25AE757AC073}|LINQ\\LINQ.csproj|solutionrelative:linq\\linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C6E6BC-1A0A-4F22-8727-17117797B1B4}|\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F\\simple1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,6 +117,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{CF76241F-48D4-443E-97F0-57143738CC64}|ConsoleApp1\\ConsoleApp1.csproj|e:\\work\\c#\\test1\\consoleapp1\\consoleapp1\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF76241F-48D4-443E-97F0-57143738CC64}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj|e:\\work\\c#\\test1\\consoleapp1\\consoleapp2\\\u5165\u95E8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj|solutionrelative:consoleapp2\\\u5165\u95E8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj|e:\\work\\c#\\test1\\consoleapp1\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAC478C-34E3-4938-A4AF-B91837CDE56C}|ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,20 +154,228 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sample1.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\Sample1.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\Sample1.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\Sample1.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\Sample1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T08:36:03.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LeeCode",
-              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\LeeCode.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp2\\LeeCode.csproj",
-              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\LeeCode.csproj",
-              "RelativeToolTip": "ConsoleApp2\\LeeCode.csproj",
+              "Title": "\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-14T08:35:45.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\Program.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\Program.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\Program.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u7EC4\u5408\u6A21\u5F0F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T08:35:35.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u88C5\u9970\u6A21\u5F0F\\Program.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u88C5\u9970\u6A21\u5F0F\\Program.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u88C5\u9970\u6A21\u5F0F\\Program.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u88C5\u9970\u6A21\u5F0F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:43:52.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sample1.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\Sample1.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\Sample1.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\Sample1.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\Sample1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T03:11:21.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\Program.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\Program.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\Program.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F_\u5907\u5FD8\u5F55\u6A21\u5F0F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T03:10:57.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sample1.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\Sample1.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\Sample1.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\Sample1.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\Sample1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:56:49.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\Program.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\Program.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\Program.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u5916\u89C2\u6A21\u5F0F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:56:40.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5EFA\u9020\u8005\u6A21\u5F0F\\Program.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u5EFA\u9020\u8005\u6A21\u5F0F\\Program.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5EFA\u9020\u8005\u6A21\u5F0F\\Program.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u5EFA\u9020\u8005\u6A21\u5F0F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:40:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\Program.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\Program.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\Program.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:39:29.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sample1.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\Sample1.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\Sample1.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\Sample1.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u6A21\u677F\u65B9\u6CD5\\Sample1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:39:29.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sample1.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\Sample1.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\Sample1.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\Sample1.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\Sample1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:24:03.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\Program.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\Program.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\Program.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u4EE3\u7406\u6A21\u5F0F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:24:02.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sample1.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\Sample1.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\Sample1.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\Sample1.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\Sample1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:12:46.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T12:42:37.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\Program.cs",
+              "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\Program.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\Program.cs",
+              "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u9002\u914D\u5668\u6A21\u5F0F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:42:19.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "\u6570\u636E\u7ED3\u6784 - LeeCode",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj",
+              "RelativeToolTip": "ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-10-07T12:06:24.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "\u5BF9\u8C61\u4E0E\u7C7B",
+              "DocumentIndex": 20,
+              "Title": "\u5BF9\u8C61\u4E0E\u7C7B.csproj",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u5BF9\u8C61\\\u5BF9\u8C61\u4E0E\u7C7B.csproj",
               "RelativeDocumentMoniker": "\u5BF9\u8C61\\\u5BF9\u8C61\u4E0E\u7C7B.csproj",
               "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u5BF9\u8C61\\\u5BF9\u8C61\u4E0E\u7C7B.csproj",
@@ -115,8 +387,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "\u53CD\u5C04",
+              "DocumentIndex": 19,
+              "Title": "\u53CD\u5C04.csproj",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u53CD\u5C04\\\u53CD\u5C04.csproj",
               "RelativeDocumentMoniker": "\u53CD\u5C04\\\u53CD\u5C04.csproj",
               "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u53CD\u5C04\\\u53CD\u5C04.csproj",
@@ -128,8 +400,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LINQ",
+              "DocumentIndex": 17,
+              "Title": "LINQ.csproj",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\LINQ\\LINQ.csproj",
               "RelativeDocumentMoniker": "LINQ\\LINQ.csproj",
               "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\LINQ\\LINQ.csproj",
@@ -141,38 +413,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 29,
               "Title": "\u5165\u95E8.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\\u5165\u95E8.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\\u5165\u95E8.cs",
               "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\\u5165\u95E8.cs",
               "RelativeToolTip": "ConsoleApp2\\\u5165\u95E8.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAmwIcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T11:53:30.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
               "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABIwBAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T11:51:19.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LeeCode.csproj",
-              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\LeeCode.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp2\\LeeCode.csproj",
-              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\LeeCode.csproj",
-              "RelativeToolTip": "ConsoleApp2\\LeeCode.csproj",
+              "DocumentIndex": 16,
+              "Title": "\u6570\u636E\u7ED3\u6784 - LeeCode.csproj",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj",
+              "RelativeToolTip": "ConsoleApp2\\\u6570\u636E\u7ED3\u6784 - LeeCode.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-10-07T11:51:17.07Z",
@@ -180,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F.csproj",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F.csproj",
               "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F\\\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F.csproj",
@@ -193,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "Simple1.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F\\Simple1.cs",
               "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F\\Simple1.cs",
@@ -206,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F\\Program.cs",
               "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u72B6\u6001\u6A21\u5F0F\\Program.cs",
@@ -219,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "\u5C5E\u6027.csproj",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u5C5E\u6027\\\u5C5E\u6027.csproj",
               "RelativeDocumentMoniker": "\u5C5E\u6027\\\u5C5E\u6027.csproj",
@@ -232,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "App.config",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5DE5\u5382\u6A21\u5F0F\\App.config",
               "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u5DE5\u5382\u6A21\u5F0F\\App.config",
@@ -240,23 +512,25 @@
               "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u5DE5\u5382\u6A21\u5F0F\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-07T07:41:56.084Z"
+              "WhenOpened": "2025-10-07T07:41:56.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5DE5\u5382\u6A21\u5F0F\\Program.cs",
               "RelativeDocumentMoniker": "\u8BBE\u8BA1\u6A21\u5F0F - \u5DE5\u5382\u6A21\u5F0F\\Program.cs",
               "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u8BBE\u8BA1\u6A21\u5F0F - \u5DE5\u5382\u6A21\u5F0F\\Program.cs",
               "RelativeToolTip": "\u8BBE\u8BA1\u6A21\u5F0F - \u5DE5\u5382\u6A21\u5F0F\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAABgwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T07:06:00.122Z"
+              "WhenOpened": "2025-10-07T07:06:00.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u5BF9\u8C61\\Program.cs",
               "RelativeDocumentMoniker": "\u5BF9\u8C61\\Program.cs",
@@ -264,11 +538,12 @@
               "RelativeToolTip": "\u5BF9\u8C61\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T01:57:27.943Z"
+              "WhenOpened": "2025-10-07T01:57:27.943Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "Program1.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\ConsoleApp1\\Program1.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program1.cs",
@@ -276,7 +551,8 @@
               "RelativeToolTip": "ConsoleApp1\\Program1.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAADgv2sAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T00:41:29.299Z"
+              "WhenOpened": "2025-10-07T00:41:29.299Z",
+              "EditorCaption": ""
             }
           ]
         }

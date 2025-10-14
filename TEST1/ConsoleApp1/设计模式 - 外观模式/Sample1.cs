@@ -26,13 +26,13 @@ namespace 设计模式___外观模式
         }
 
         //组合方法
-        public void MethodA()
+        public void MethodsA()
         {
             Console.WriteLine("方法组A:");
             subA.MethodA();
             subB.MethodB();
         }
-        public void MethodB()
+        public void MethodsB()
         {
             Console.WriteLine("方法组B:");
             subB.MethodB();

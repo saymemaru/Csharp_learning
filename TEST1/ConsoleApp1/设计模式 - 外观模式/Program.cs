@@ -1,8 +1,8 @@
 ﻿using 设计模式___外观模式;
 
 Facade facade = new Facade();
-facade.MethodA();
-facade.MethodB();
+facade.MethodsA();
+facade.MethodsB();
 
 //例子
 //数据访问层、业务逻辑层、表示层,两两之间建立外观

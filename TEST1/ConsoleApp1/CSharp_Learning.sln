@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 状态模式
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 适配器模式", "设计模式 - 适配器模式\设计模式 - 适配器模式.csproj", "{CC58D578-6499-448B-9859-0D69B2057704}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 备忘录模式", "设计模式_备忘录模式\设计模式 - 备忘录模式.csproj", "{C0793B32-9493-4CAF-A650-9BE5394F6569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 组合模式", "设计模式 - 组合模式\设计模式 - 组合模式.csproj", "{03C2F294-C77B-4C63-9837-01B13674BB0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -311,6 +315,22 @@ Global
 		{CC58D578-6499-448B-9859-0D69B2057704}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CC58D578-6499-448B-9859-0D69B2057704}.Release|x64.ActiveCfg = Release|Any CPU
 		{CC58D578-6499-448B-9859-0D69B2057704}.Release|x64.Build.0 = Release|Any CPU
+		{C0793B32-9493-4CAF-A650-9BE5394F6569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0793B32-9493-4CAF-A650-9BE5394F6569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0793B32-9493-4CAF-A650-9BE5394F6569}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C0793B32-9493-4CAF-A650-9BE5394F6569}.Debug|x64.Build.0 = Debug|Any CPU
+		{C0793B32-9493-4CAF-A650-9BE5394F6569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0793B32-9493-4CAF-A650-9BE5394F6569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0793B32-9493-4CAF-A650-9BE5394F6569}.Release|x64.ActiveCfg = Release|Any CPU
+		{C0793B32-9493-4CAF-A650-9BE5394F6569}.Release|x64.Build.0 = Release|Any CPU
+		{03C2F294-C77B-4C63-9837-01B13674BB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C2F294-C77B-4C63-9837-01B13674BB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C2F294-C77B-4C63-9837-01B13674BB0A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{03C2F294-C77B-4C63-9837-01B13674BB0A}.Debug|x64.Build.0 = Debug|Any CPU
+		{03C2F294-C77B-4C63-9837-01B13674BB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C2F294-C77B-4C63-9837-01B13674BB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C2F294-C77B-4C63-9837-01B13674BB0A}.Release|x64.ActiveCfg = Release|Any CPU
+		{03C2F294-C77B-4C63-9837-01B13674BB0A}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
