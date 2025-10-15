@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 备忘录模
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 组合模式", "设计模式 - 组合模式\设计模式 - 组合模式.csproj", "{03C2F294-C77B-4C63-9837-01B13674BB0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 迭代器模式", "设计模式 - 迭代器模式\设计模式 - 迭代器模式.csproj", "{5E6BB893-06E7-40F8-822F-A2FFDD6167CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 单例模式", "设计模式 - 单例模式\设计模式 - 单例模式.csproj", "{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -331,6 +335,22 @@ Global
 		{03C2F294-C77B-4C63-9837-01B13674BB0A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{03C2F294-C77B-4C63-9837-01B13674BB0A}.Release|x64.ActiveCfg = Release|Any CPU
 		{03C2F294-C77B-4C63-9837-01B13674BB0A}.Release|x64.Build.0 = Release|Any CPU
+		{5E6BB893-06E7-40F8-822F-A2FFDD6167CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6BB893-06E7-40F8-822F-A2FFDD6167CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6BB893-06E7-40F8-822F-A2FFDD6167CC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5E6BB893-06E7-40F8-822F-A2FFDD6167CC}.Debug|x64.Build.0 = Debug|Any CPU
+		{5E6BB893-06E7-40F8-822F-A2FFDD6167CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6BB893-06E7-40F8-822F-A2FFDD6167CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6BB893-06E7-40F8-822F-A2FFDD6167CC}.Release|x64.ActiveCfg = Release|Any CPU
+		{5E6BB893-06E7-40F8-822F-A2FFDD6167CC}.Release|x64.Build.0 = Release|Any CPU
+		{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}.Debug|x64.Build.0 = Debug|Any CPU
+		{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}.Release|x64.ActiveCfg = Release|Any CPU
+		{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

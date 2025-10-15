@@ -1,11 +1,6 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.PortableExecutable;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace 设计模式_迭代器模式
 {
     //可以实现自定义集合，并使其可枚举
     //
@@ -29,6 +24,7 @@ namespace ConsoleApp1
             lastName = lName;
         }
     }
+
     //自定义集合数据类型（就如同list，dic，array）
     //实现IEnumerable接口
     public class People : IEnumerable
@@ -54,7 +50,9 @@ namespace ConsoleApp1
             return new PeopleEnum(_people);
         }
     }
+
     //实现IEnumerator接口
+    //目前实现的是正序遍历
     public class PeopleEnum : IEnumerator
     {
         public Person[] _people;
@@ -143,9 +141,6 @@ namespace ConsoleApp1
             //Append()方法用于向现有的IEnumerable<Person>集合添加一个新的Person对象
             IEnumerable<Person> p3 = peopleList.Append(new Person("aaa", "bbb"));
             //更多操作 etc..
-
-
-
 
         }
 
