@@ -65,6 +65,28 @@ namespace 条件判断
             Console.WriteLine($"Product: {size} {color} {type}");
         }
 
+        public static void WhatMouth(int mouth)
+        {
+            switch(mouth)
+            {
+                case 1:
+                case 3:
+                case 5:
+                case 7:
+                case 8:
+                case 10:
+                case 12:
+                    Console.WriteLine("big");
+                    break;
+                default:
+                    Console.WriteLine("small");
+                    break;
+            }
+
+                
+        }
+
+
         public static string 辨别性别1(string 传入字符串)
         {
             switch (传入字符串)

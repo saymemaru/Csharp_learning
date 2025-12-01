@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{FE23F275-6E49-4908-866D-34CD78BFE988}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "递归", "递归\递归.csproj", "{2E458AF4-F744-40D0-86B9-0757C33818F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "递归、循环", "递归\递归、循环.csproj", "{2E458AF4-F744-40D0-86B9-0757C33818F2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "枚举", "枚举\枚举.csproj", "{212B36CE-C65A-4C86-85A9-4A1D14B08F97}"
 EndProject
@@ -70,6 +70,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 迭代器模式", "设计模式 - 迭代器模式\设计模式 - 迭代器模式.csproj", "{5E6BB893-06E7-40F8-822F-A2FFDD6167CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式 - 单例模式", "设计模式 - 单例模式\设计模式 - 单例模式.csproj", "{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "运算符、类型转换", "运算符\运算符、类型转换.csproj", "{A5C40256-B9E3-4CF9-A1D8-876C0742E813}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -351,6 +353,14 @@ Global
 		{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}.Release|x64.ActiveCfg = Release|Any CPU
 		{5D4A5134-3A1B-4FC5-9E73-09ADCEAEF250}.Release|x64.Build.0 = Release|Any CPU
+		{A5C40256-B9E3-4CF9-A1D8-876C0742E813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C40256-B9E3-4CF9-A1D8-876C0742E813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C40256-B9E3-4CF9-A1D8-876C0742E813}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A5C40256-B9E3-4CF9-A1D8-876C0742E813}.Debug|x64.Build.0 = Debug|Any CPU
+		{A5C40256-B9E3-4CF9-A1D8-876C0742E813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C40256-B9E3-4CF9-A1D8-876C0742E813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C40256-B9E3-4CF9-A1D8-876C0742E813}.Release|x64.ActiveCfg = Release|Any CPU
+		{A5C40256-B9E3-4CF9-A1D8-876C0742E813}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
