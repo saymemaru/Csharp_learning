@@ -3,3 +3,6 @@
 Singleton1.Instance.Hello();
 
 Singleton2.Instance.Hello();
+
+SingleTon3.Instance.Hello();
+

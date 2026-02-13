@@ -25,7 +25,7 @@ namespace 泛型
     //构造函数约束也是可选的（如果拥有了值类型约束，就不能再使用构造函数约束）。
     class Creator1<T> where T : class, new() { }  //class；new()约束，表示必须有无参构造函数
     class Creator2<T> where T : 指定Class { } //指定Class
-    class Creator3<T> where T : IArmy { } //指定T包含 IArmy接口
+    class Creator3<T> where T : IArmy { } //T必须继承 IArmy接口
     class Creator4<T> where T : struct { } //struct
     class Creator5<T, U> where T : class where U : struct, T { } //多个类型参数
     class Creator6<T, U> where T : U { }

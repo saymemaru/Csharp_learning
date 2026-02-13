@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|e:\\work\\c#\\winform\\foxholeartyhelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|e:\\work\\c#\\winform\\foxholeartyhelper\\keyhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|solutionrelative:keyhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|e:\\work\\c#\\winform\\foxholeartyhelper\\mousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|solutionrelative:mousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|E:\\work\\C#\\winform\\FoxholeArtyHelper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|e:\\work\\c#\\winform\\foxholeartyhelper\\myutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|solutionrelative:myutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|e:\\work\\c#\\winform\\foxholeartyhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|e:\\work\\c#\\winform\\foxholeartyhelper\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91A2E7-85A2-4E14-97FA-812C2DF7CB13}|FoxholeArtyHelper.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyUtility.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\MyUtility.cs",
+              "RelativeDocumentMoniker": "MyUtility.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\MyUtility.cs",
+              "RelativeToolTip": "MyUtility.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T10:18:42.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MouseHook.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\MouseHook.cs",
+              "RelativeDocumentMoniker": "MouseHook.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\MouseHook.cs",
+              "RelativeToolTip": "MouseHook.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA+wHoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:29:15.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyHook.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\KeyHook.cs",
+              "RelativeDocumentMoniker": "KeyHook.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\KeyHook.cs",
+              "RelativeToolTip": "KeyHook.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv08AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:58:29.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv1cAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:41:29.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:45:07.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:45:45.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\FoxholeArtyHelper\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:40:38.349Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

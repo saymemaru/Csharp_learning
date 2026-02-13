@@ -10,11 +10,15 @@
         "projectUniqueName": "E:\\work\\C#\\winform\\halcon\\pointcloud\\pointcloud.csproj",
         "projectName": "pointcloud",
         "projectPath": "E:\\work\\C#\\winform\\halcon\\pointcloud\\pointcloud.csproj",
-        "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
+        "packagesPath": "E:\\.nuget\\packages",
         "outputPath": "E:\\work\\C#\\winform\\halcon\\pointcloud\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\app\\visual studio\\tools\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "E:\\.nuget\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -134,17 +134,20 @@ namespace pointcloud
             HOperatorSet.SelectObjectModel3d(hv_ObjectModel3DConnected, "num_points", "and",
                 4000, 2e7, out hv_ObjectModel3DSelected);
 
-            //创建坐标系修正位姿
+            // 创建坐标系修正位姿
             hv_CorrectionPose.Dispose();
+                // 手动校正位姿
             HOperatorSet.CreatePose(0, -18, 0, 0, 0, -9, "Rp+T", "gba", "point", out hv_CorrectionPose);
-            //对齐到主轴坐标系
+            // 对齐到主轴坐标系（模型特征坐标系）
             hv_Moments.Dispose();
             HOperatorSet.MomentsObjectModel3d(hv_ObjectModel3DSelected, "principal_axes",
                 out hv_Moments);
             hv_PoseInvert.Dispose();
+                // 主轴坐标系变换模型坐标系
             HOperatorSet.PoseInvert(hv_Moments, out hv_PoseInvert);
             {
                 HTuple ExpTmpOutVar_0;
+                // 添加校正位姿
                 HOperatorSet.PoseCompose(hv_PoseInvert, hv_CorrectionPose, out ExpTmpOutVar_0);
                 hv_PoseInvert.Dispose();
                 hv_PoseInvert = ExpTmpOutVar_0;

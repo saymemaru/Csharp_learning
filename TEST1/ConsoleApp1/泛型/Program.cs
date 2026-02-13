@@ -5,11 +5,36 @@ using System.Xml.Linq;
 using 泛型;
 //泛型实现了类型和方法的参数化
 
+//常用集合操作
+List<string> testList = new List<string>(10) {"朱八", "张三", "李四", "王五","猫四"};
+testList.Insert(0,"赵七");
+testList.RemoveRange(1,2);
+testList.Remove("王五");
+testList.RemoveAll((string member) => { return member.EndsWith("四"); });
+foreach(string a in testList)
+{
+    Console.Write(a + ", ");
+}
+Console.WriteLine(testList.Count);
+
+//嵌套字典
+Dictionary<string, Dictionary<string, int>> dic1 = new();
+dic1.Add("张三",new Dictionary<string, int>());
+dic1["张三"].Add("智力",5);
+dic1["张三"].Add("力量", 3);
+Console.WriteLine("智力：" + dic1["张三"]["智力"] + "  力量：" + dic1["张三"]["力量"]);
+
+//栈
+Stack<string> stack = new ();
+//队列
+Queue<string> queue = new();
+
+
 //泛型字典
 string text = @"Do you like green eggs and ham?
                I do not like them, Sam-I-am.
                I do not like green eggs and ham.";
-Dictionary<string, int> frequencies = Generic_.CountWords(text);
+Dictionary<string, int> frequencies = Generic_.CountWords(text); //统计单词<单词，数量>
 // 打印映射中的每个键/值对
 foreach (KeyValuePair<string, int> entry in frequencies)  
 {
@@ -48,8 +73,6 @@ foreach (string s in strings)
 {
     Console.WriteLine(s);
 }
-
-
 
 //非泛型类型 的 泛型方法
 static List<T> MakeList<T>(T first, T second)
@@ -94,7 +117,6 @@ string intro1 = "My name is " + name;
 string intro2 = "My name is " + name;
 Console.WriteLine(intro1 == intro2);   //❷ 使用string重载的== 返回true
 Console.WriteLine(AreReferencesEqual(intro1, intro2)); //false
-
 
 //使用多个类型参数的泛型类型Creator7
 Creator7<int, string> creatorA = Creator7.Of(343, "Hello");

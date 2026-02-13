@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,57 +106,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "shader1.frag",
-              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Shader\\shader1.frag",
-              "RelativeDocumentMoniker": "Shader\\shader1.frag",
-              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Shader\\shader1.frag",
-              "RelativeToolTip": "Shader\\shader1.frag",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-06T03:02:09.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "shader1.vert",
-              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Shader\\shader1.vert",
-              "RelativeDocumentMoniker": "Shader\\shader1.vert",
-              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Shader\\shader1.vert",
-              "RelativeToolTip": "Shader\\shader1.vert",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-06T03:02:08.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StaticShaderOrange.cs",
-              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\StaticShaderOrange.cs",
-              "RelativeDocumentMoniker": "StaticShaderOrange.cs",
-              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\StaticShaderOrange.cs",
-              "RelativeToolTip": "StaticShaderOrange.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T03:01:18.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TEST1",
-              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\TEST1.csproj",
-              "RelativeDocumentMoniker": "TEST1.csproj",
-              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\TEST1.csproj",
-              "RelativeToolTip": "TEST1.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-06T02:51:24.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
               "Title": "TEST1.csproj",
               "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\TEST1.csproj",
@@ -165,8 +114,7 @@
               "RelativeToolTip": "TEST1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-06T02:51:22.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T02:51:22.408Z"
             },
             {
               "$type": "Document",
@@ -178,8 +126,7 @@
               "RelativeToolTip": "Model\\TexturedModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T16:48:01.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T16:48:01.083Z"
             },
             {
               "$type": "Document",
@@ -191,8 +138,7 @@
               "RelativeToolTip": "Texture.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAIwCMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T16:37:41.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T16:37:41.154Z"
             },
             {
               "$type": "Document",
@@ -204,8 +150,7 @@
               "RelativeToolTip": "Shader\\shader2.frag",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-05T15:43:28.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T15:43:28.273Z"
             },
             {
               "$type": "Document",
@@ -217,8 +162,7 @@
               "RelativeToolTip": "Shader\\shader2.vert",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-05T15:43:11.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T15:43:11.461Z"
             },
             {
               "$type": "Document",
@@ -230,8 +174,7 @@
               "RelativeToolTip": "StaticShaderColorful.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T15:30:04.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T15:30:04.146Z"
             },
             {
               "$type": "Document",
@@ -243,8 +186,7 @@
               "RelativeToolTip": "Shader.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAxwGIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T13:44:55.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T13:44:55.147Z"
             },
             {
               "$type": "Document",
@@ -256,8 +198,67 @@
               "RelativeToolTip": "VertexArrayObject.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwvx0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T13:12:03.537Z",
+              "WhenOpened": "2025-10-05T13:12:03.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwGsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T09:14:56.276Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TEST1",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\TEST1.csproj",
+              "RelativeDocumentMoniker": "TEST1.csproj",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\TEST1.csproj",
+              "RelativeToolTip": "TEST1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T02:51:24.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaticShaderOrange.cs",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\StaticShaderOrange.cs",
+              "RelativeDocumentMoniker": "StaticShaderOrange.cs",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\StaticShaderOrange.cs",
+              "RelativeToolTip": "StaticShaderOrange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T03:01:18.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "shader1.vert",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Shader\\shader1.vert",
+              "RelativeDocumentMoniker": "Shader\\shader1.vert",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Shader\\shader1.vert",
+              "RelativeToolTip": "Shader\\shader1.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-06T03:02:08.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "shader1.frag",
+              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Shader\\shader1.frag",
+              "RelativeDocumentMoniker": "Shader\\shader1.frag",
+              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Shader\\shader1.frag",
+              "RelativeToolTip": "Shader\\shader1.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-06T03:02:09.121Z"
             },
             {
               "$type": "Document",
@@ -269,8 +270,7 @@
               "RelativeToolTip": "BufferObject.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAIwA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T13:05:56.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T13:05:56.319Z"
             },
             {
               "$type": "Document",
@@ -282,8 +282,7 @@
               "RelativeToolTip": "Shader\\shader.frag",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-05T12:19:47.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T12:19:47.522Z"
             },
             {
               "$type": "Document",
@@ -295,8 +294,7 @@
               "RelativeToolTip": "Renderer.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAvwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T10:50:25.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T10:50:25.076Z"
             },
             {
               "$type": "Document",
@@ -308,8 +306,7 @@
               "RelativeToolTip": "Loader.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAQwDkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T09:35:54.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T09:35:54.863Z"
             },
             {
               "$type": "Document",
@@ -321,8 +318,7 @@
               "RelativeToolTip": "Shader\\shader.vert",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-05T12:23:05.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T12:23:05.527Z"
             },
             {
               "$type": "Document",
@@ -334,21 +330,7 @@
               "RelativeToolTip": "Model\\RawModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T09:33:57.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\work\\C#\\silk.net\\opengl\\TEST1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAowGsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T09:14:56.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T09:33:57.998Z"
             }
           ]
         }

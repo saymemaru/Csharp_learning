@@ -4,12 +4,44 @@ using System.Linq;
 
 namespace 枚举
 {
-    public class Enum_
+    public static class Enum_
     {
         //枚举是一种特殊的数据类型，它允许你定义一组有（字符串）命名的常量，这些常量通常表示相关的值集合
         //默认底层类型是int，可以指定其他整数类型如byte, sbyte, short, ushort, uint, long, ulong
         //默认第一个枚举成员的值为0，后续成员的值依次递增1
-        
+
+        //选择多个枚举值
+        // | 按位或运算符（二进制运算）
+        // & 按位与运算符
+        //1、任意多个枚举值做 | 运算的结果，不能与其他枚举值相同
+        // 枚举值为 1、2、4、8、16、32...（以2的n次方递增）
+        //2、定义枚举时添加[Flags]特征 （允许多选，增加识别度）
+        [Flags]
+        public enum Animal
+        {
+            Cat = 1,
+            Dog = 2,
+            Fish = 4,
+            Rabbit = 8,
+            Pig = 16
+        }
+
+        //多项选择，输入不同枚举值的按位或运算
+        public static void PrintAnimal(Animal animal)
+        {
+            if ((animal & Animal.Cat) == Animal.Cat)
+                Console.WriteLine("猫");
+            if ((animal & Animal.Dog) == Animal.Dog)
+                Console.WriteLine("狗");
+            if ((animal & Animal.Fish) == Animal.Fish)
+                Console.WriteLine("鱼");
+            if ((animal & Animal.Rabbit) != 0)
+                Console.WriteLine("兔");
+            if ((animal & Animal.Pig) != 0) //等价于第1-3个if
+                Console.WriteLine("猪");
+        }
+
+
         public enum Color
         {
             Red,
@@ -21,7 +53,8 @@ namespace 枚举
         public enum 日期
         {
             星期一 = 1,
-            星期二 = 2,
+            //可以任意数字（默认int）
+            星期二 = 223,
             星期三 = 3,
             //可以不指定，默认下一个值加1
             星期四,
