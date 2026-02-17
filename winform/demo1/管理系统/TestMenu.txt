@@ -1,0 +1,11 @@
+﻿[{
+	"MenuText":"首页",
+	"MenuImage":"Lionclaw",
+	"MenuPage":"HomePage"
+},
+{
+	"MenuText":"设置",
+	"MenuImage":"Pistol",
+	"MenuPage":"SettingPage"
+}
+]

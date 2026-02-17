@@ -1,4 +1,4 @@
-namespace 管理系统
+namespace ManageSystem
 {
     internal static class Program
     {
