@@ -121,8 +121,17 @@
   <data name="airborne" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\airborne icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Bane_45_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Bane_45" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\Bane_45_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BtDisband" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\BtDisband.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BtEdit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\BtEdit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IconFilterUtility_24px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\24px-IconFilterUtility.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Lionclaw" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\Lionclaw_mc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

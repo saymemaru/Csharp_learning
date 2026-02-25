@@ -3,32 +3,100 @@
   "WorkspaceRootPath": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\addpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:addpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\model\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:model\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\ef6\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:ef6\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\addpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:addpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\addpersonform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:addpersonform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\ef6\\persontmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:ef6\\persontmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\model\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:model\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\pages\\menupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:pages\\menupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\ef6\\menutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:ef6\\menutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\pages\\menupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:pages\\menupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\pages\\personpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:pages\\personpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\userstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:userstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\migrations\\202602210513344_addpersonpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:migrations\\202602210513344_addpersonpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\editpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:editpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\testmenu.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:testmenu.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\editpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:editpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\pages\\menupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:pages\\menupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\editmenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:editmenuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -55,14 +123,6 @@
       "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:mycontrols\\menuuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\ef6\\menutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:ef6\\menutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\testmenu.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:testmenu.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\mycontrols\\menuuc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:mycontrols\\menuuc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,28 +130,12 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\app\\visual studio\\IDE\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\managesystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:managesystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|\u7BA1\u7406\u7CFB\u7EDF.csproj|E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|\u7BA1\u7406\u7CFB\u7EDF.csproj|solutionrelative:pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\managesystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:managesystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\mycontrols\\menuuc.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:mycontrols\\menuuc.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|e:\\work\\c#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6530FD52-0E72-41E7-B034-A0B5F6B610F4}|ManageSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -101,7 +145,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -120,37 +164,237 @@
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuPage.cs",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\MenuPage.cs",
-              "RelativeDocumentMoniker": "Pages\\MenuPage.cs",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\MenuPage.cs",
-              "RelativeToolTip": "Pages\\MenuPage.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBYAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Model\\RoleModel.cs",
+              "RelativeDocumentMoniker": "Model\\RoleModel.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Model\\RoleModel.cs",
+              "RelativeToolTip": "Model\\RoleModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T05:57:38.96Z",
+              "WhenOpened": "2026-02-21T05:55:26.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuPage.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\MenuPage.cs",
-              "RelativeDocumentMoniker": "Pages\\MenuPage.cs",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\MenuPage.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Pages\\MenuPage.cs [\u8BBE\u8BA1]",
+              "DocumentIndex": 0,
+              "Title": "AddPersonForm.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\AddPersonForm.cs",
+              "RelativeDocumentMoniker": "AddPersonForm.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\AddPersonForm.cs",
+              "RelativeToolTip": "AddPersonForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA0wB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T05:52:07.614Z",
+              "WhenOpened": "2026-02-21T05:54:45.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPersonForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\AddPersonForm.cs",
+              "RelativeDocumentMoniker": "AddPersonForm.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\AddPersonForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "AddPersonForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T05:49:50.907Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "PersonTModel.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EF6\\PersonTModel.cs",
+              "RelativeDocumentMoniker": "EF6\\PersonTModel.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EF6\\PersonTModel.cs",
+              "RelativeToolTip": "EF6\\PersonTModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAjwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:26:46.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T09:52:23.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuModel.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Model\\MenuModel.cs",
+              "RelativeDocumentMoniker": "Model\\MenuModel.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Model\\MenuModel.cs",
+              "RelativeToolTip": "Model\\MenuModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T13:06:28.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuTModel.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EF6\\MenuTModel.cs",
+              "RelativeDocumentMoniker": "EF6\\MenuTModel.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EF6\\MenuTModel.cs",
+              "RelativeToolTip": "EF6\\MenuTModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T13:38:36.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddMenuForm.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\AddMenuForm.cs",
+              "RelativeDocumentMoniker": "AddMenuForm.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\AddMenuForm.cs",
+              "RelativeToolTip": "AddMenuForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:58:07.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddPersonForm.Designer.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\AddPersonForm.Designer.cs",
+              "RelativeDocumentMoniker": "AddPersonForm.Designer.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\AddPersonForm.Designer.cs",
+              "RelativeToolTip": "AddPersonForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:57:13.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:40:43.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditPersonForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EditPersonForm.cs",
+              "RelativeDocumentMoniker": "EditPersonForm.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EditPersonForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "EditPersonForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T05:05:03.794Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "202602210513344_AddPersonPassword.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Migrations\\202602210513344_AddPersonPassword.cs",
+              "RelativeDocumentMoniker": "Migrations\\202602210513344_AddPersonPassword.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Migrations\\202602210513344_AddPersonPassword.cs",
+              "RelativeToolTip": "Migrations\\202602210513344_AddPersonPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T05:13:35.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserState.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\UserState.cs",
+              "RelativeDocumentMoniker": "UserState.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\UserState.cs",
+              "RelativeToolTip": "UserState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T05:21:13.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\LoginForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LoginForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:40:59.084Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonPage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\PersonPage.cs",
+              "RelativeDocumentMoniker": "Pages\\PersonPage.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\PersonPage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Pages\\PersonPage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:46:46.476Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:28:37.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:39:45.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestMenu.txt",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\TestMenu.txt",
+              "RelativeDocumentMoniker": "TestMenu.txt",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\TestMenu.txt",
+              "RelativeToolTip": "TestMenu.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-16T09:03:11.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -162,59 +406,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAlwIAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "AddMenuForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\AddMenuForm.cs",
+              "RelativeDocumentMoniker": "AddMenuForm.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\AddMenuForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "AddMenuForm.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T09:57:19.162Z",
+              "WhenOpened": "2026-02-18T09:33:19.647Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditPersonForm.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EditPersonForm.cs",
+              "RelativeDocumentMoniker": "EditPersonForm.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EditPersonForm.cs",
+              "RelativeToolTip": "EditPersonForm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:39:08.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EF6\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "EF6\\AppDbContext.cs",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EF6\\AppDbContext.cs",
-              "RelativeToolTip": "EF6\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-15T12:16:20.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuPage.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\MenuPage.cs",
+              "RelativeDocumentMoniker": "Pages\\MenuPage.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\MenuPage.cs",
+              "RelativeToolTip": "Pages\\MenuPage.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAADwv34AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T13:40:20.715Z",
+              "WhenOpened": "2026-02-17T05:57:38.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditMenuForm.Designer.cs",
+              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EditMenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "EditMenuForm.Designer.cs",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EditMenuForm.Designer.cs",
+              "RelativeToolTip": "EditMenuForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:54:48.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuModel.cs",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Model\\MenuModel.cs",
-              "RelativeDocumentMoniker": "Model\\MenuModel.cs",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Model\\MenuModel.cs",
-              "RelativeToolTip": "Model\\MenuModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T13:06:28.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 27,
               "Title": "MenuUC.cs",
               "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\MyControls\\MenuUC.cs",
               "RelativeDocumentMoniker": "MyControls\\MenuUC.cs",
               "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\MyControls\\MenuUC.cs",
               "RelativeToolTip": "MyControls\\MenuUC.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABQwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T07:55:32.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 29,
               "Title": "MenuUC.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\MyControls\\MenuUC.cs",
               "RelativeDocumentMoniker": "MyControls\\MenuUC.cs",
@@ -225,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "HomePage.cs",
               "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\HomePage.cs",
               "RelativeDocumentMoniker": "Pages\\HomePage.cs",
@@ -238,29 +504,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomePage.cs [\u8BBE\u8BA1]",
+              "DocumentIndex": 24,
+              "Title": "HomePage.cs [Design]",
               "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\HomePage.cs",
               "RelativeDocumentMoniker": "Pages\\HomePage.cs",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\HomePage.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Pages\\HomePage.cs [\u8BBE\u8BA1]",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\HomePage.cs [Design]",
+              "RelativeToolTip": "Pages\\HomePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T09:07:01.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "Properties\\Resources.resx",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Properties\\Resources.resx",
-              "RelativeToolTip": "Properties\\Resources.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-02-15T12:16:20.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "SettingPage.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\SettingPage.cs",
               "RelativeDocumentMoniker": "Pages\\SettingPage.cs",
@@ -271,55 +526,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MenuTModel.cs",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EF6\\MenuTModel.cs",
-              "RelativeDocumentMoniker": "EF6\\MenuTModel.cs",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\EF6\\MenuTModel.cs",
-              "RelativeToolTip": "EF6\\MenuTModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T13:38:36.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MenuUC.cs [\u8BBE\u8BA1]",
+              "DocumentIndex": 28,
+              "Title": "MenuUC.cs [Design]",
               "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\MyControls\\MenuUC.cs",
               "RelativeDocumentMoniker": "MyControls\\MenuUC.cs",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\MyControls\\MenuUC.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "MyControls\\MenuUC.cs [\u8BBE\u8BA1]",
+              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\MyControls\\MenuUC.cs [Design]",
+              "RelativeToolTip": "MyControls\\MenuUC.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T12:43:50.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T12:09:51.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TestMenu.txt",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\TestMenu.txt",
-              "RelativeDocumentMoniker": "TestMenu.txt",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\TestMenu.txt",
-              "RelativeToolTip": "TestMenu.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-02-16T09:03:11.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 31,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "F:\\app\\visual studio\\IDE\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "F:\\app\\visual studio\\IDE\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -329,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 30,
               "Title": "MenuUC.Designer.cs",
               "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\MyControls\\MenuUC.Designer.cs",
               "RelativeDocumentMoniker": "MyControls\\MenuUC.Designer.cs",
@@ -341,18 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ManageSystem",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\ManageSystem.csproj",
-              "RelativeDocumentMoniker": "ManageSystem.csproj",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\ManageSystem.csproj",
-              "RelativeToolTip": "ManageSystem.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-16T09:08:53.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "MenuUC.resx",
               "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\MyControls\\MenuUC.resx",
               "RelativeDocumentMoniker": "MyControls\\MenuUC.resx",
@@ -363,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "HomePage.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Pages\\HomePage.cs",
               "RelativeDocumentMoniker": "Pages\\HomePage.cs",
@@ -371,30 +578,6 @@
               "RelativeToolTip": "Pages\\HomePage.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T08:39:31.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ManageSystem.csproj",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\ManageSystem.csproj",
-              "RelativeDocumentMoniker": "ManageSystem.csproj",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\ManageSystem.csproj",
-              "RelativeToolTip": "ManageSystem.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-15T12:16:08.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\work\\C#\\winform\\demo1\\\u7BA1\u7406\u7CFB\u7EDF\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T09:52:23.088Z"
             }
           ]
         }

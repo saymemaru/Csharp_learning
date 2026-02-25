@@ -73,9 +73,39 @@ namespace ManageSystem.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap Bane_45_Icon {
+        internal static System.Drawing.Bitmap Bane_45 {
             get {
-                object obj = ResourceManager.GetObject("Bane_45_Icon", resourceCulture);
+                object obj = ResourceManager.GetObject("Bane_45", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap BtDisband {
+            get {
+                object obj = ResourceManager.GetObject("BtDisband", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap BtEdit {
+            get {
+                object obj = ResourceManager.GetObject("BtEdit", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap IconFilterUtility_24px {
+            get {
+                object obj = ResourceManager.GetObject("IconFilterUtility_24px", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

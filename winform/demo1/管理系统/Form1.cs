@@ -127,11 +127,5 @@ namespace ManageSystem
                 db.SaveChanges();
             }
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            MenuPage menuPage = new MenuPage();
-            AddPage(menuPage);
-        }
     }
 }

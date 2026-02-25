@@ -30,10 +30,17 @@
         {
             tableLayoutPanel1 = new TableLayoutPanel();
             panelHead = new Panel();
+            buttonAddMenu = new Button();
             panelContent = new Panel();
-            panelTail = new Panel();
             dataGridView1 = new DataGridView();
+            ColID = new DataGridViewTextBoxColumn();
+            ColMenuText = new DataGridViewTextBoxColumn();
+            ColMenuImage = new DataGridViewTextBoxColumn();
+            ColMenuPage = new DataGridViewTextBoxColumn();
+            ColOperation = new DataGridViewTextBoxColumn();
+            panelTail = new Panel();
             tableLayoutPanel1.SuspendLayout();
+            panelHead.SuspendLayout();
             panelContent.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
@@ -58,12 +65,28 @@
             // panelHead
             // 
             panelHead.BackColor = Color.FromArgb(255, 255, 192);
+            panelHead.Controls.Add(buttonAddMenu);
             panelHead.Dock = DockStyle.Fill;
             panelHead.Location = new Point(0, 0);
             panelHead.Margin = new Padding(0);
             panelHead.Name = "panelHead";
             panelHead.Size = new Size(890, 50);
             panelHead.TabIndex = 0;
+            // 
+            // buttonAddMenu
+            // 
+            buttonAddMenu.BackColor = Color.White;
+            buttonAddMenu.Cursor = Cursors.Hand;
+            buttonAddMenu.FlatAppearance.BorderColor = Color.FromArgb(64, 64, 64);
+            buttonAddMenu.FlatAppearance.MouseDownBackColor = Color.Silver;
+            buttonAddMenu.FlatStyle = FlatStyle.Flat;
+            buttonAddMenu.Location = new Point(3, 4);
+            buttonAddMenu.Name = "buttonAddMenu";
+            buttonAddMenu.Size = new Size(90, 40);
+            buttonAddMenu.TabIndex = 0;
+            buttonAddMenu.Text = "添加";
+            buttonAddMenu.UseVisualStyleBackColor = false;
+            buttonAddMenu.Click += buttonAddMenu_Click;
             // 
             // panelContent
             // 
@@ -76,6 +99,49 @@
             panelContent.Size = new Size(890, 504);
             panelContent.TabIndex = 1;
             // 
+            // dataGridView1
+            // 
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { ColID, ColMenuText, ColMenuImage, ColMenuPage, ColOperation });
+            dataGridView1.Dock = DockStyle.Fill;
+            dataGridView1.Location = new Point(0, 0);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.Size = new Size(890, 504);
+            dataGridView1.TabIndex = 0;
+            dataGridView1.CellClick += dataGridView1_CellClick;
+            dataGridView1.CellMouseMove += dataGridView1_CellMouseMove;
+            dataGridView1.CellPainting += dataGridView1_CellPainting;
+            // 
+            // ColID
+            // 
+            ColID.DataPropertyName = "Id";
+            ColID.HeaderText = "Id";
+            ColID.Name = "ColID";
+            ColID.Visible = false;
+            // 
+            // ColMenuText
+            // 
+            ColMenuText.DataPropertyName = "MenuText";
+            ColMenuText.HeaderText = "菜单名称";
+            ColMenuText.Name = "ColMenuText";
+            // 
+            // ColMenuImage
+            // 
+            ColMenuImage.DataPropertyName = "MenuImage";
+            ColMenuImage.HeaderText = "菜单图片";
+            ColMenuImage.Name = "ColMenuImage";
+            // 
+            // ColMenuPage
+            // 
+            ColMenuPage.DataPropertyName = "MenuPage";
+            ColMenuPage.HeaderText = "菜单页面";
+            ColMenuPage.Name = "ColMenuPage";
+            // 
+            // ColOperation
+            // 
+            ColOperation.HeaderText = "操作";
+            ColOperation.Name = "ColOperation";
+            // 
             // panelTail
             // 
             panelTail.BackColor = Color.FromArgb(192, 255, 255);
@@ -86,15 +152,6 @@
             panelTail.Size = new Size(890, 50);
             panelTail.TabIndex = 2;
             // 
-            // dataGridView1
-            // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Dock = DockStyle.Fill;
-            dataGridView1.Location = new Point(0, 0);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(890, 504);
-            dataGridView1.TabIndex = 0;
-            // 
             // MenuPage
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
@@ -102,7 +159,9 @@
             Controls.Add(tableLayoutPanel1);
             Name = "MenuPage";
             Size = new Size(890, 604);
+            Load += MenuPage_Load;
             tableLayoutPanel1.ResumeLayout(false);
+            panelHead.ResumeLayout(false);
             panelContent.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
@@ -115,5 +174,11 @@
         private Panel panelContent;
         private Panel panelTail;
         private DataGridView dataGridView1;
+        private Button buttonAddMenu;
+        private DataGridViewTextBoxColumn ColID;
+        private DataGridViewTextBoxColumn ColMenuText;
+        private DataGridViewTextBoxColumn ColMenuImage;
+        private DataGridViewTextBoxColumn ColMenuPage;
+        private DataGridViewTextBoxColumn ColOperation;
     }
 }

@@ -32,13 +32,12 @@
             tableLayoutPanelContent = new TableLayoutPanel();
             flowLayoutPanelMenu = new FlowLayoutPanel();
             panelContent = new Panel();
-            pictureBoxTitle = new PictureBox();
             panelHead = new Panel();
-            button1 = new Button();
+            pictureBoxTitle = new PictureBox();
             tableLayoutPanelContainer.SuspendLayout();
             tableLayoutPanelContent.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBoxTitle).BeginInit();
             panelHead.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxTitle).BeginInit();
             SuspendLayout();
             // 
             // tableLayoutPanelContainer
@@ -94,6 +93,16 @@
             panelContent.Size = new Size(901, 561);
             panelContent.TabIndex = 1;
             // 
+            // panelHead
+            // 
+            panelHead.Controls.Add(pictureBoxTitle);
+            panelHead.Dock = DockStyle.Fill;
+            panelHead.Location = new Point(0, 0);
+            panelHead.Margin = new Padding(0);
+            panelHead.Name = "panelHead";
+            panelHead.Size = new Size(1141, 80);
+            panelHead.TabIndex = 1;
+            // 
             // pictureBoxTitle
             // 
             pictureBoxTitle.Image = Properties.Resources.airborne;
@@ -103,27 +112,6 @@
             pictureBoxTitle.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBoxTitle.TabIndex = 1;
             pictureBoxTitle.TabStop = false;
-            // 
-            // panelHead
-            // 
-            panelHead.Controls.Add(button1);
-            panelHead.Controls.Add(pictureBoxTitle);
-            panelHead.Dock = DockStyle.Fill;
-            panelHead.Location = new Point(0, 0);
-            panelHead.Margin = new Padding(0);
-            panelHead.Name = "panelHead";
-            panelHead.Size = new Size(1141, 80);
-            panelHead.TabIndex = 1;
-            // 
-            // button1
-            // 
-            button1.Location = new Point(1014, 33);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 2;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
             // 
             // Form1
             // 
@@ -137,8 +125,8 @@
             Load += Form1_Load;
             tableLayoutPanelContainer.ResumeLayout(false);
             tableLayoutPanelContent.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)pictureBoxTitle).EndInit();
             panelHead.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBoxTitle).EndInit();
             ResumeLayout(false);
         }
 
@@ -153,6 +141,5 @@
         private MyControls.MenuUC menuuc2;
         private MyControls.MenuUC menuuc3;
         private Panel panelHead;
-        private Button button1;
     }
 }

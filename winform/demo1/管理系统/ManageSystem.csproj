@@ -14,9 +14,25 @@
 
   <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.5.1" />
+    <PackageReference Include="NPOI" Version="2.7.5" />
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddPersonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditPersonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PersonPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Properties\Resources.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
