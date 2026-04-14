@@ -76,7 +76,7 @@ namespace 委托
 
             //传递参数：调用对象（this）,可选事件参数
             OnXXXHandler?.Invoke(this, new MyEventArg() { Message = "hello"} );
-            OnXXXHandler(this, EventArgs.Empty);
+            //OnXXXHandler(this, EventArgs.Empty);
 
             //多线程，先获取引用，再调用
             //var handler = OnXXXHandler;
@@ -113,7 +113,6 @@ namespace 委托
         public string Message { get; set; }
 
         //etc.
-
     }
 }
 

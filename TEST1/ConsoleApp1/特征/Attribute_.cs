@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace 特征
 {
     // 特性
-    // 特性（Attribute）是用于向程序元素（如类、方法、属性等）添加额 外数据的一种机制
+    // 特性（Attribute）是用于向程序元素（如类、方法、属性等）添加额外数据的一种机制
 
     //为类添加特性
     [Student("Math", 101)]
