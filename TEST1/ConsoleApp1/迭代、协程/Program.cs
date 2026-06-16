@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using 迭代_协程;
 
 // 迭代器遍历字典元素
 Dictionary<string, int> dic1 = new() 
@@ -23,3 +24,25 @@ foreach (KeyValuePair<string, int> item in dic1)
     Console.Write(item.Key + " " + item.Value + " ");
 }
 Console.WriteLine();
+
+
+People people = new(
+    [
+        new Person("j","k"),
+        new Person("a","b"),
+        new Person("g","h"),
+    ]);
+//foreach原理
+IEnumerator iterator = people.GetEnumerator();
+while (iterator.MoveNext())
+    Console.WriteLine(iterator.Current);
+
+Dinner dinner = new(
+    [
+        new Human(11f),
+        new Human(5f),
+        new Human(8.4f)
+    ]);
+IEnumerator dinnerIterator = dinner.GetEnumerator();
+while (dinnerIterator.MoveNext())
+    Console.WriteLine(dinnerIterator.Current);

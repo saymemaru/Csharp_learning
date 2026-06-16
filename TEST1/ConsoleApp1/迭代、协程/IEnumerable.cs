@@ -25,7 +25,11 @@ namespace 迭代_协程
     //结果就是存在Enumerator的Enumerable对象可以使用foreach语法来遍历该对象
 
     //定义一个Person类
-    public class Person
+    public interface ISpeak
+    {
+        void Talk();
+    }
+    public class Person : ISpeak
     {
         public string firstName;
         public string lastName;
@@ -35,56 +39,62 @@ namespace 迭代_协程
             firstName = fName;
             lastName = lName;
         }
+
+        public void Talk()
+        {
+            throw new NotImplementedException();
+        }
     }
     //自定义集合数据类型（就如同list，dic，array）
     //数据集合实现IEnumerable接口
     public class People : IEnumerable
     {
-        private Person[] _people;
+        private ISpeak[] _animal;
 
-        public People(Person[] pArray)
+        public People(ISpeak[] pArray)
         {
-            _people = new Person[pArray.Length];
+            _animal = new ISpeak[pArray.Length];
             for (int i = 0; i < pArray.Length; i++)
             {
-                _people[i] = pArray[i];
+                _animal[i] = pArray[i];
             }
         }
 
-        IEnumerator IEnumerable.GetEnumerator()
+        /*IEnumerator IEnumerable.GetEnumerator()
         {
             return (IEnumerator)GetEnumerator();
-        }
+        }*/
 
         //获取迭代器
-        public PeopleEnum GetEnumerator()
+        public IEnumerator GetEnumerator()
         {
-            return new PeopleEnum(_people);
+            return new PeopleEnumerator(_animal);
         }
+
     }
     //实现IEnumerator接口
-    public class PeopleEnum : IEnumerator
+    public class PeopleEnumerator : IEnumerator
     {
-        public Person[] _people;
-        int position = -1; //起始位置为空
+        public ISpeak[] _animal;
+        int index = -1; //起始位置为空
 
-        public PeopleEnum(Person[] list)
+        public PeopleEnumerator(ISpeak[] list)
         {
-            _people = list;
+            _animal = list;
         }
 
         //实现MoveNext()，迭代器获取下一个位置的元素，可加入不同的逻辑规则
         public bool MoveNext()
         {
-            position++;
+            index++;
             //如果位置索引小于集合长度，则返回
-            return (position < _people.Length);
+            return index < _animal.Length;
         }
 
         //迭代器索引回到初始位置
         public void Reset()
         {
-            position = -1;
+            index = -1;
         }
 
         
@@ -97,13 +107,13 @@ namespace 迭代_协程
         }
 
         //根据迭代器索引返回当前指向的对象
-        public Person Current
+        public ISpeak Current
         {
             get
             {
                 try
                 {
-                    return _people[position];
+                    return _animal[index];
                 }
                 //超出索引
                 catch (IndexOutOfRangeException)
@@ -118,7 +128,7 @@ namespace 迭代_协程
         public PeopleManager()
         {
             //数组
-            Person[] peopleArray = new Person[3]
+            ISpeak[] peopleArray = new ISpeak[3]
             {
                 new Person("John", "Smith"),
                 new Person("Jim", "Johnson"),
