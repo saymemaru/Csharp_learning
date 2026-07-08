@@ -1,0 +1,57 @@
+﻿<Window x:Class="PanelTest.Windows.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PanelTest.Windows" 
+        xmlns:controls="clr-namespace:PanelTest.Controls" 
+        xmlns:views="clr-namespace:PanelTest.Views"
+        xmlns:viewModels="clr-namespace:PanelTest.ViewModels"
+        mc:Ignorable="d"
+        Title="Window1" Height="500" Width="600" d:Height="500" d:Width="600">
+    <Window.Resources>
+        <!--数据模板: 定义数据的外观-->
+        <!--使用DataType定义隐式数据模板-->
+        <!--使用x:key定义显式数据模板-->
+        <DataTemplate DataType="{x:Type viewModels:PeopleViewModel}">
+            <!--将PeopleInformationView设为数据的UI-->
+            <views:PeopleInformationView/>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type viewModels:ProductsViewModel}">
+            <views:ProductsInformationView/>
+        </DataTemplate>
+
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height ="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Menu FontSize="20">
+            <MenuItem Header="_View">
+                <MenuItem Header="_People" 
+                          Command="{Binding SelectViewModelCommand}" 
+                          CommandParameter="{Binding PeopleViewModel}"/>
+                <MenuItem Header="_Products" 
+                          Command="{Binding SelectViewModelCommand}" 
+                          CommandParameter="{Binding ProductsViewModel}"/>
+            </MenuItem>
+            <MenuItem Header="File"/>
+        </Menu>
+
+        <controls:HeaderControl Grid.Row="1"/>
+
+        <!--ContentControl和ItemControl的Content支持任何对象，UI对象被渲染，其他对象ToString显示-->
+        <!--ContentControl向上在Resources属性中查找隐式数据模板-->
+        <ContentControl Grid.Row="2" Content="{Binding SelectedViewModel}" />
+
+        <StatusBar Grid.Row="4" FontSize="15">
+            No sacrifice is too great.
+        </StatusBar>
+    </Grid>
+
+</Window>

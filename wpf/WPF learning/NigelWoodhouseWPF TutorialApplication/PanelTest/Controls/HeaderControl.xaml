@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="PanelTest.Controls.HeaderControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PanelTest.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    
+    <Grid Background="{StaticResource ResourceKey=HeaderBackgroundBrush}">
+        <StackPanel HorizontalAlignment="Center" Background="{StaticResource ResourceKey=HeaderBackgroundBrush}" Orientation="Horizontal">
+            <Image Source="../Images/Logo.png" Height="50" Margin="5"/>
+            <TextBlock VerticalAlignment="Center" Foreground="{StaticResource ResourceKey=HeaderForegroundBrush}" FontSize="30" FontFamily="Dubai Medium" >OGAS</TextBlock>
+        </StackPanel>
+    </Grid>
+</UserControl>
