@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\work\\C#\\NLogTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42A10E-EE9B-4C03-B9F9-EBDE1718A1C2}|NLogTest.csproj|e:\\work\\c#\\nlogtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E42A10E-EE9B-4C03-B9F9-EBDE1718A1C2}|NLogTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42A10E-EE9B-4C03-B9F9-EBDE1718A1C2}|NLogTest.csproj|e:\\work\\c#\\nlogtest\\nlog.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E42A10E-EE9B-4C03-B9F9-EBDE1718A1C2}|NLogTest.csproj|solutionrelative:nlog.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42A10E-EE9B-4C03-B9F9-EBDE1718A1C2}|NLogTest.csproj|e:\\work\\c#\\nlogtest\\nlog\u914D\u7F6E\u4F7F\u7528\u793A\u4F8B.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1E42A10E-EE9B-4C03-B9F9-EBDE1718A1C2}|NLogTest.csproj|solutionrelative:nlog\u914D\u7F6E\u4F7F\u7528\u793A\u4F8B.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42A10E-EE9B-4C03-B9F9-EBDE1718A1C2}|NLogTest.csproj|e:\\work\\c#\\nlogtest\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E42A10E-EE9B-4C03-B9F9-EBDE1718A1C2}|NLogTest.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E42A10E-EE9B-4C03-B9F9-EBDE1718A1C2}|NLogTest.csproj|e:\\work\\c#\\nlogtest\\nlogtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E42A10E-EE9B-4C03-B9F9-EBDE1718A1C2}|NLogTest.csproj|solutionrelative:nlogtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NLog\u914D\u7F6E\u4F7F\u7528\u793A\u4F8B.md",
+              "DocumentMoniker": "E:\\work\\C#\\NLogTest\\NLog\u914D\u7F6E\u4F7F\u7528\u793A\u4F8B.md",
+              "RelativeDocumentMoniker": "NLog\u914D\u7F6E\u4F7F\u7528\u793A\u4F8B.md",
+              "ToolTip": "E:\\work\\C#\\NLogTest\\NLog\u914D\u7F6E\u4F7F\u7528\u793A\u4F8B.md",
+              "RelativeToolTip": "NLog\u914D\u7F6E\u4F7F\u7528\u793A\u4F8B.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-22T04:15:57.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\work\\C#\\NLogTest\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "E:\\work\\C#\\NLogTest\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T04:03:36.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nlog.Debug.config",
+              "DocumentMoniker": "E:\\work\\C#\\NLogTest\\nlog.Debug.config",
+              "RelativeDocumentMoniker": "nlog.Debug.config",
+              "ToolTip": "E:\\work\\C#\\NLogTest\\nlog.Debug.config",
+              "RelativeToolTip": "nlog.Debug.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-07-22T03:49:28.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NLogTest",
+              "DocumentMoniker": "E:\\work\\C#\\NLogTest\\NLogTest.csproj",
+              "RelativeDocumentMoniker": "NLogTest.csproj",
+              "ToolTip": "E:\\work\\C#\\NLogTest\\NLogTest.csproj",
+              "RelativeToolTip": "NLogTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-22T03:39:12.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\NLogTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\work\\C#\\NLogTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T03:22:25.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1491,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8f3a9c2d-1e5b-4f6a-9c8d-2e3f5a7b1d4e}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1491,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{244df7ea-d757-4b52-b92c-efd2d3402c91}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

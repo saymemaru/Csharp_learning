@@ -18,7 +18,13 @@ namespace 扩展方法
             return char.ToUpper(text[0]) + text.Substring(1).ToLower();
         }
 
-        //集合到字符串扩展方法
+        /// <summary>
+        /// 用目标字符分割集合中的元素为一个字符串
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="list"></param>
+        /// <param name="separator">分隔字符</param>
+        /// <returns></returns>
         public static string ToElementsString<T>(this IEnumerable<T> list, string separator = ",")
         {
             StringBuilder sb = new StringBuilder();

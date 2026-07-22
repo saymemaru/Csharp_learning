@@ -27,6 +27,8 @@
         "sources": {
           "C:\\Program Files\\dotnet\\library-packs": {},
           "E:\\.nuget\\packages": {},
+          "E:\\work\\C#MyProject\\ScriptEditorTest\\CDSCSharpScript\\demo\\packages": {},
+          "F:\\app\\Godot_v4.5.1-stable_mono_win64\\GodotSharp\\Tools": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -93,6 +95,8 @@
         "sources": {
           "C:\\Program Files\\dotnet\\library-packs": {},
           "E:\\.nuget\\packages": {},
+          "E:\\work\\C#MyProject\\ScriptEditorTest\\CDSCSharpScript\\demo\\packages": {},
+          "F:\\app\\Godot_v4.5.1-stable_mono_win64\\GodotSharp\\Tools": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -146,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

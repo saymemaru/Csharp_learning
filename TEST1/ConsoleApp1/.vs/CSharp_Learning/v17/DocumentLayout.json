@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\work\\C#\\TEST1\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45D2CBB9-CB3E-4478-B7A5-3E7111FA869D}|\u6269\u5C55\u65B9\u6CD5\\\u6269\u5C55\u65B9\u6CD5.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2CBB9-CB3E-4478-B7A5-3E7111FA869D}|\u6269\u5C55\u65B9\u6CD5\\\u6269\u5C55\u65B9\u6CD5.csproj|solutionrelative:\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D2CBB9-CB3E-4478-B7A5-3E7111FA869D}|\u6269\u5C55\u65B9\u6CD5\\\u6269\u5C55\u65B9\u6CD5.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u6269\u5C55\u65B9\u6CD5\\extensionmethods_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D2CBB9-CB3E-4478-B7A5-3E7111FA869D}|\u6269\u5C55\u65B9\u6CD5\\\u6269\u5C55\u65B9\u6CD5.csproj|solutionrelative:\u6269\u5C55\u65B9\u6CD5\\extensionmethods_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8C3F42-3FC6-4FEE-B6A9-60DD10DFF255}|\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8C3F42-3FC6-4FEE-B6A9-60DD10DFF255}|\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task.csproj|solutionrelative:\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8C3F42-3FC6-4FEE-B6A9-60DD10DFF255}|\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B task\\taskparallel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8C3F42-3FC6-4FEE-B6A9-60DD10DFF255}|\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task.csproj|solutionrelative:\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B task\\taskparallel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88E3A87E-7D8F-4C31-86CE-F618A604B036}|\u591A\u7EBF\u7A0B Wait\u3001Pulse\\\u591A\u7EBF\u7A0B Wait\u3001Pulse.csproj|e:\\work\\c#\\test1\\consoleapp1\\\u591A\u7EBF\u7A0B wait\u3001pulse\\\u751F\u4EA7\u8005\u3001\u6D88\u8D39\u8005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88E3A87E-7D8F-4C31-86CE-F618A604B036}|\u591A\u7EBF\u7A0B Wait\u3001Pulse\\\u591A\u7EBF\u7A0B Wait\u3001Pulse.csproj|solutionrelative:\u591A\u7EBF\u7A0B wait\u3001pulse\\\u751F\u4EA7\u8005\u3001\u6D88\u8D39\u8005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,8 +69,68 @@
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u6269\u5C55\u65B9\u6CD5\\Program.cs",
+              "RelativeDocumentMoniker": "\u6269\u5C55\u65B9\u6CD5\\Program.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u6269\u5C55\u65B9\u6CD5\\Program.cs",
+              "RelativeToolTip": "\u6269\u5C55\u65B9\u6CD5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T13:52:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionMethods_.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u6269\u5C55\u65B9\u6CD5\\ExtensionMethods_.cs",
+              "RelativeDocumentMoniker": "\u6269\u5C55\u65B9\u6CD5\\ExtensionMethods_.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u6269\u5C55\u65B9\u6CD5\\ExtensionMethods_.cs",
+              "RelativeToolTip": "\u6269\u5C55\u65B9\u6CD5\\ExtensionMethods_.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T13:51:55.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskParallel.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\TaskParallel.cs",
+              "RelativeDocumentMoniker": "\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\TaskParallel.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\TaskParallel.cs",
+              "RelativeToolTip": "\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\TaskParallel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T13:51:33.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\Program.cs",
+              "RelativeDocumentMoniker": "\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\Program.cs",
+              "ToolTip": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\Program.cs",
+              "RelativeToolTip": "\u5F02\u6B65\u0026\u591A\u7EBF\u7A0B Task\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T13:51:23.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "\u751F\u4EA7\u8005\u3001\u6D88\u8D39\u8005.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u591A\u7EBF\u7A0B Wait\u3001Pulse\\\u751F\u4EA7\u8005\u3001\u6D88\u8D39\u8005.cs",
               "RelativeDocumentMoniker": "\u591A\u7EBF\u7A0B Wait\u3001Pulse\\\u751F\u4EA7\u8005\u3001\u6D88\u8D39\u8005.cs",
@@ -67,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u591A\u7EBF\u7A0B Wait\u3001Pulse\\Program.cs",
               "RelativeDocumentMoniker": "\u591A\u7EBF\u7A0B Wait\u3001Pulse\\Program.cs",
@@ -79,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Example.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u591A\u7EBF\u7A0B\\Example.cs",
               "RelativeDocumentMoniker": "\u591A\u7EBF\u7A0B\\Example.cs",
@@ -91,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u591A\u7EBF\u7A0B Signaling\\Program.cs",
               "RelativeDocumentMoniker": "\u591A\u7EBF\u7A0B Signaling\\Program.cs",
@@ -103,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u591A\u7EBF\u7A0B\\Program.cs",
               "RelativeDocumentMoniker": "\u591A\u7EBF\u7A0B\\Program.cs",
@@ -115,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "\u751F\u4EA7\u8005\u3001\u6D88\u8D39\u8005.cs",
               "DocumentMoniker": "E:\\work\\C#\\TEST1\\ConsoleApp1\\\u591A\u7EBF\u7A0B Signaling\\\u751F\u4EA7\u8005\u3001\u6D88\u8D39\u8005.cs",
               "RelativeDocumentMoniker": "\u591A\u7EBF\u7A0B Signaling\\\u751F\u4EA7\u8005\u3001\u6D88\u8D39\u8005.cs",
@@ -124,6 +200,32 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T09:46:57.161Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1491,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8f3a9c2d-1e5b-4f6a-9c8d-2e3f5a7b1d4e}"
             }
           ]
         },
@@ -142,6 +244,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",

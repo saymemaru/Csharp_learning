@@ -6,6 +6,11 @@ using System.Drawing;
 
 //你已经用过了例如：num.ToString()
 
+int[] ints = new int[4];
+ints.Count(); //IEnumerable的扩展方法
+
+Console.WriteLine(ints.ToElementsString());
+
 Console.WriteLine("helloworld".ToPascalCase());
 
 Console.WriteLine(Color.Blue.GetColor());
