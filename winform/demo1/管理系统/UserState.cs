@@ -19,5 +19,9 @@ namespace ManageSystem
         public static UserState Instance => instance.Value;
 
         public PersonTModel CurrentLoginedUser { get; set; }
+
+        public List<PermissionTModel> CurrentUserPermission {  get; set; }
+
+        public Form1 CurrentIndexForm { get; set; }
     }
 }

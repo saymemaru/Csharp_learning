@@ -13,7 +13,13 @@
     <Compile Update="Pages\HomePage.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Pages\MenuFunctionPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Pages\MenuPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pages\PermissionPage.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Update="Pages\SettingPage.cs">

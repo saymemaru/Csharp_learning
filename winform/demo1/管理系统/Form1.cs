@@ -37,9 +37,14 @@ namespace ManageSystem
             return null;
         }
 
-
-        private void Form1_Load(object sender, EventArgs e)
+        /// <summary>
+        /// 按数据库信息重新加载menu选项
+        /// </summary>
+        public void LoadMenu()
         {
+            //清空
+            flowLayoutPanelMenu.Controls.Clear();
+
             // 根据db加载menu选项
             using (AppDbContext? db = new AppDbContext())
             {
@@ -54,10 +59,14 @@ namespace ManageSystem
                     {
                         LoadPage(menuTModel.MenuPage);
                     };
+
                     flowLayoutPanelMenu.Controls.Add(menuUC);
                 }
             }
-
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            LoadMenu();
             pageDic = new();
         }
 

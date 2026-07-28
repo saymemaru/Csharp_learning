@@ -15,6 +15,7 @@ namespace ManageSystem
             Form1 form1 = new ();
             if(loginForm.ShowDialog() == DialogResult.OK)
             {
+                UserState.Instance.CurrentIndexForm = form1;
                 Application.Run(form1);
             }
         }

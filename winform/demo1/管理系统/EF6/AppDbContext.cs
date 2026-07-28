@@ -19,5 +19,7 @@ namespace ManageSystem.EF6
 
         public DbSet<MenuTModel> Menus { get; set; }
         public DbSet<PersonTModel> Persons { get; set; }
+
+        public DbSet<PermissionTModel> Permissions { get; set; }
     }
 }

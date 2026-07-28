@@ -31,15 +31,27 @@ namespace ManageSystem
             }
             using (AppDbContext db = new())
             {
-                PersonTModel? personTModel = db.Persons.FirstOrDefault(m => m.PersonId == int.Parse(personId) && m.Password == password);
-                if (personTModel == null)
+                if (int.TryParse(personId, out int personIdInt))
                 {
-                    MessageBox.Show("用户不存在 / 密码不正确");
-                    return;
-                }
+                    PersonTModel? personTModel = db.Persons.FirstOrDefault(m => m.PersonId == personIdInt && m.Password == password);
+                    // 处理查询结果
+                    if (personTModel == null)
+                    {
+                        MessageBox.Show("用户不存在 / 密码不正确");
+                        return;
+                    }
 
-                //当前登录用户信息
-                UserState.Instance.CurrentLoginedUser = personTModel;
+                    //当前登录用户信息
+                    UserState.Instance.CurrentUserPermission = db.Permissions.
+                        Where(x => x.RoleId == personTModel.RoleId).
+                        ToList();
+                    UserState.Instance.CurrentLoginedUser = personTModel;
+                }
+                else
+                {
+                    // personId 不是有效的整数
+                    MessageBox.Show("请输入有效的用户ID（数字）");
+                }
             }
 
             //重新加载Menus数据，关闭页面

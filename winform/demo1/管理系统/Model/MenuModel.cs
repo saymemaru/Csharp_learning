@@ -12,4 +12,14 @@ namespace ManageSystem.Model
         public string MenuImage { get; set; }
         public string MenuPage { get; set; }
     }
+
+    public enum MenuFunctionEnum
+    {
+        增加,
+        修改,
+        查看,
+        删除,
+        Excel导入,
+        Excel导出
+    }
 }

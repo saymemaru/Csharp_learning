@@ -54,6 +54,8 @@ namespace ManageSystem
 
             //重新加载Menus数据，关闭页面
             CurrentMenuPage.LoadDBMenus();
+            UserState.Instance.CurrentIndexForm.LoadMenu();
+
             MessageBox.Show("添加完成"); 
             this.Close();
 

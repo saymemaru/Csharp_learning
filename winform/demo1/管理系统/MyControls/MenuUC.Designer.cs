@@ -35,7 +35,7 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = ManageSystem.Properties.Resources.Pistol;
+            pictureBox1.Image = Properties.Resources.Pistol;
             pictureBox1.Location = new Point(10, 0);
             pictureBox1.Margin = new Padding(0);
             pictureBox1.Name = "pictureBox1";
@@ -47,12 +47,13 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("华文中宋", 26.25F, FontStyle.Regular, GraphicsUnit.Point, 134);
+            label1.Font = new Font("华文中宋", 18F, FontStyle.Regular, GraphicsUnit.Point, 134);
             label1.ForeColor = Color.White;
             label1.Location = new Point(90, 12);
             label1.Margin = new Padding(0);
             label1.Name = "label1";
-            label1.Size = new Size(114, 40);
+            label1.Padding = new Padding(10);
+            label1.Size = new Size(98, 47);
             label1.TabIndex = 1;
             label1.Text = "Menu";
             // 
